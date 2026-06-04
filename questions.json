@@ -22,6 +22,18 @@
           ],
           "correctAnswerIndex": 0,
           "explanation": ""
+        },
+        {
+          "id": "q_1780554539230",
+          "text": "cảm ơn",
+          "options": [
+            "こんにちは",
+            "おはようございます",
+            "ありがとう",
+            "ごめんなさい"
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": ""
         }
       ]
     },
