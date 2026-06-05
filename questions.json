@@ -2544,6 +2544,414 @@
               "explanation": "Đáp án đúng: 4"
             }
           ]
+        },
+        {
+          "id": "folder_mechanism_of_mind_and_body_vi",
+          "name": "Cơ chế của Tâm trí và Cơ thể",
+          "questions": [
+            {
+              "id": "q_38_061_vi",
+              "text": "Câu 61: Chọn từ thích hợp nhất tương ứng với sự chuyển biến cảm xúc lớn giới hạn trong thời gian tương đối ngắn.",
+              "options": [
+                "1 Điều kiện hóa",
+                "2 Trí nhớ ngắn hạn",
+                "3 Tâm trạng",
+                "4 Suy nghĩ",
+                "5 Xúc động (Cảm xúc mãnh liệt)"
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_062_vi",
+              "text": "Câu 62: Chọn phát biểu thích hợp về cấu tạo và chức năng của não bộ.",
+              "options": [
+                "1 Tế bào thần kinh nâng đỡ tế bào thần kinh đệm (glial cell).",
+                "2 Tế bào thần kinh đệm (glial cell) đảm nhận việc truyền đạt thông tin.",
+                "3 Serotonin là một trong những chất dẫn truyền thần kinh.",
+                "4 Thùy đỉnh có chứa vùng vận động.",
+                "5 Hồi hải mã (hippocampus) đảm nhận thị giác."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_063_vi",
+              "text": "Câu 63: Chọn phát biểu đúng về cơ chế của hệ tuần hoàn.",
+              "options": [
+                "1 Tim do hệ thần kinh soma (thần kinh thể xác) chi phối.",
+                "2 Máu tĩnh mạch chảy trong động mạch phổi.",
+                "3 Máu bơm ra từ tâm thất trái chảy vào tĩnh mạch chủ.",
+                "4 Máu chảy trong mạch bạch huyết.",
+                "5 Máu tĩnh mạch là máu chứa nhiều oxy."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_064_vi",
+              "text": "Câu 64: Chọn giải thích thích hợp về các cơ co thắt khi con người thực hiện động tác.",
+              "options": [
+                "1 Khi giữ tư thế đứng, cơ mông lớn co lại.",
+                "2 Để gập đầu gối, cơ tứ đầu đùi co lại.",
+                "3 Để gập khuỷu tay, cơ tam đầu bắp tay (triceps) co lại.",
+                "4 Khi khép khớp vai, cơ delta co lại.",
+                "5 Khi gập gan bàn chân ở khớp cổ chân, cơ chày trước co lại."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_065_vi",
+              "text": "Câu 65: Chọn bộ phận bị đục trong bệnh đục thủy tinh thể (cataract).",
+              "options": [
+                "1 Võng mạc",
+                "2 Giác mạc",
+                "3 Màng mạch",
+                "4 Pha lê thể (Dịch kính)",
+                "5 Thủy tinh thể"
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_066_vi",
+              "text": "Câu 66: Chọn đặc điểm hành vi và triệu chứng thích hợp nhất thường thấy ở người cao tuổi bị suy dinh dưỡng.",
+              "options": [
+                "1 Tăng tiết nước bọt.",
+                "2 Tăng nhu động ruột.",
+                "3 Giảm việc làm rơi vãi thức ăn.",
+                "4 Có cách ăn uống thiên lệch (kén ăn).",
+                "5 Tăng cân."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_067_vi",
+              "text": "Câu 67: Chọn cấu trúc lớp biểu bì có chức năng hàng rào bảo vệ (barrier) thích hợp nhất.",
+              "options": [
+                "1 Tuyến mồ hôi",
+                "2 Lớp sừng",
+                "3 Lớp đáy",
+                "4 Lớp gai",
+                "5 Lớp hạt"
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_068_vi",
+              "text": "Câu 68: Bà A (98 tuổi, nữ) bị sa sút trí tuệ nhưng vẫn có thể tự thực hiện các động tác ăn uống. Gần đây, ngày càng có nhiều lúc bà không bắt đầu ăn dù đồ ăn đã được dọn ra. Khi nhân viên chăm sóc giải thích về thực đơn và nguyên liệu, bà A mới bắt đầu ăn. Trong 5 giai đoạn của quá trình ăn nuốt dưới đây, chọn giai đoạn thích hợp nhất mà nhân viên chăm sóc đã hỗ trợ.",
+              "options": [
+                "1 Giai đoạn nhận biết (Tiên hành kỳ)",
+                "2 Giai đoạn chuẩn bị",
+                "3 Giai đoạn khoang miệng",
+                "4 Giai đoạn hầu họng",
+                "5 Giai đoạn thực quản"
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_069_vi",
+              "text": "Câu 69: Ở người trưởng thành khỏe mạnh, chọn bộ phận thích hợp nhất mà phân đi qua ngay sau đại tràng ngang.",
+              "options": [
+                "1 Manh tràng",
+                "2 Đại tràng lên",
+                "3 Đại tràng xuống",
+                "4 Đại tràng sigma",
+                "5 Trực tràng"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_070_vi",
+              "text": "Câu 70: Ông A (80 tuổi, nam) đột nhiên bị táo bón từ nửa năm trước, gần đây tần suất đi tiêu chỉ khoảng 1 lần/5 ngày. Bụng ông bị chướng, phân nhỏ và có lúc dính máu. Chọn cách xử lý thích hợp nhất đối với tình trạng táo bón của ông A.",
+              "options": [
+                "1 Khuyến khích uống nước.",
+                "2 Khuyến khích ăn chất xơ.",
+                "3 Khuyến khích vận động như đi dạo.",
+                "4 Mát-xa vùng bụng.",
+                "5 Khuyên đi khám tại cơ sở y tế."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_071_vi",
+              "text": "Câu 71: Chọn thời gian ngủ hợp lý và thích hợp nhất đối với người 65 tuổi.",
+              "options": [
+                "1 Khoảng 12 giờ",
+                "2 Khoảng 10 giờ",
+                "3 Khoảng 8 giờ",
+                "4 Khoảng 6 giờ",
+                "5 Khoảng 4 giờ"
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_072_vi",
+              "text": "Câu 72: Chọn giai đoạn 'Trầm cảm' thích hợp trong quá trình chấp nhận cái chết của người ở giai đoạn cuối đời do Kubler-Ross, E. chỉ ra.",
+              "options": [
+                "1 Giai đoạn 1 (Chối bỏ)",
+                "2 Giai đoạn 2 (Phẫn nộ)",
+                "3 Giai đoạn 3 (Thương lượng)",
+                "4 Giai đoạn 4 (Trầm cảm)",
+                "5 Giai đoạn 5 (Chấp nhận)"
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            }
+          ]
+        },
+        {
+          "id": "folder_understanding_of_development_and_aging_vi",
+          "name": "Hiểu biết về Phát triển và Lão hóa",
+          "questions": [
+            {
+              "id": "q_38_073_vi",
+              "text": "Câu 73: Chọn nội dung thích hợp tương ứng với nhiệm vụ phát triển của tuổi trung niên do Havighurst, R. chỉ ra.",
+              "options": [
+                "1 Phát triển lương tâm, đạo đức, và thang giá trị.",
+                "2 Hoàn thành trách nhiệm dân sự và xã hội của một người trưởng thành.",
+                "3 Đảm bảo một ngôi nhà thỏa mãn.",
+                "4 Nắm bắt vai trò xã hội của nam giới hoặc nữ giới.",
+                "5 Tìm một nhóm xã hội tâm đầu ý hợp."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_074_vi",
+              "text": "Câu 74: Chọn đặc điểm thích hợp nhất của Rối loạn phổ tự kỷ (autism spectrum disorder).",
+              "options": [
+                "1 Không viết đúng chính tả, nhầm lẫn các chữ cái giống nhau.",
+                "2 Lặp đi lặp lại cùng một động tác hoặc hành động.",
+                "3 Khó duy trì sự chú ý.",
+                "4 Chèn ép, không thể chờ đến lượt.",
+                "5 Khó so sánh sự lớn nhỏ của các con số."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_075_vi",
+              "text": "Câu 75: Chọn thuật ngữ thích hợp nhất chỉ trạng thái trung gian giữa trạng thái khỏe mạnh và trạng thái chức năng thể chất - tinh thần suy giảm cần được chăm sóc.",
+              "options": [
+                "1 Lão hóa (aging)",
+                "2 Suy giảm khối lượng cơ (sarcopenia)",
+                "3 Hội chứng suy giảm vận động (locomotive syndrome)",
+                "4 Cân bằng nội môi (homeostasis)",
+                "5 Hội chứng suy yếu (frailty)"
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_076_vi",
+              "text": "Câu 76: Chọn phát biểu thích hợp nhất về tính dục (sexuality) của người cao tuổi.",
+              "options": [
+                "1 Khi về già, sự quan tâm đến tình dục sẽ biến mất.",
+                "2 Ở nam giới, việc tiết hormone sinh dục vẫn được duy trì ngay cả khi đã cao tuổi.",
+                "3 Ở nữ giới, khi về già dễ cảm thấy đau khi giao hợp.",
+                "4 Người cao tuổi mất đi tính dục cùng lúc với việc mất đi chức năng sinh sản.",
+                "5 Không có sự khác biệt về giới tính trong ham muốn tình dục của người cao tuổi."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_077_vi",
+              "text": "Câu 77: Cô A (22 tuổi, nữ) làm nhân viên chăm sóc tại một cơ sở, đang sống một mình và cố gắng điều chỉnh bữa ăn, giấc ngủ. Không có vấn đề gì trong cuộc sống hàng ngày hay tình trạng công việc. Ở nơi làm việc không có nhân viên chăm sóc nào trạc tuổi cô A, những lúc nghỉ giải lao hay ngày nghỉ cô cũng chỉ ở một mình. Cô A nghĩ: 'Tôi không có cảm giác muốn cấp trên công nhận khả năng làm việc của mình. Thay vào đó, tôi muốn có một đồng nghiệp cùng trang lứa để có thể trò chuyện sâu sắc về công việc và những chuyện khác.' Theo Tháp nhu cầu của Maslow, chọn mức độ thích hợp nhất tương ứng với cảm xúc hiện tại của cô A.",
+              "options": [
+                "1 Nhu cầu sinh lý",
+                "2 Nhu cầu trực thuộc và tình yêu thương (Nhu cầu xã hội)",
+                "3 Nhu cầu an toàn",
+                "4 Nhu cầu được công nhận (Tôn trọng)",
+                "5 Nhu cầu tự khẳng định bản thân"
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_078_vi",
+              "text": "Câu 78: Chọn chức năng của tính hằng định (cân bằng nội môi) thích hợp nhất liên quan đến hiện tượng dễ bị hụt hơi khi leo cầu thang do tuổi tác.",
+              "options": [
+                "1 Khả năng dự trữ (Reserve capacity)",
+                "2 Khả năng thích ứng",
+                "3 Khả năng miễn dịch",
+                "4 Sức đề kháng",
+                "5 Khả năng phục hồi"
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_079_vi",
+              "text": "Câu 79: Chọn đặc điểm thích hợp của các căn bệnh và triệu chứng ở người cao tuổi.",
+              "options": [
+                "1 Xuất hiện các triệu chứng điển hình.",
+                "2 Cuộc sống trở nên hoạt bát hơn.",
+                "3 Trở nên nhạy cảm với cơn đau.",
+                "4 Dễ mắc nhiều bệnh cùng lúc.",
+                "5 Ít mắc các bệnh mãn tính."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_080_vi",
+              "text": "Câu 80: Bà A (82 tuổi, nữ) đang sống trong cơ sở chăm sóc y tế người cao tuổi. Buổi sáng, thấy bà có vẻ buồn ngủ, nhân viên chăm sóc hỏi có chuyện gì thì bà A nói: 'Đêm qua chân và lưng tôi ngứa quá nên hầu như không ngủ được.' Khi cùng y tá quan sát chân và lưng, thấy da bị khô và có những vết xước do gãi. Ngoài ra không thấy bất thường nào khác trên da. Bà A chịu lạnh kém, hiện đang là mùa đông nên bà luôn sử dụng chăn điện. Hôm qua là ngày đi tắm. Chọn bệnh có khả năng đang xảy ra với bà A nhất.",
+              "options": [
+                "1 Bệnh ghẻ sừng (hyperkeratotic scabies)",
+                "2 Bệnh zona thần kinh (herpes zoster)",
+                "3 Loét tì đè",
+                "4 Chứng ngứa da do lão hóa (senile pruritus)",
+                "5 Bệnh xơ vữa động mạch tắc nghẽn"
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            }
+          ]
+        },
+        {
+          "id": "folder_understanding_of_dementia_vi",
+          "name": "Hiểu biết về Sa sút trí tuệ",
+          "questions": [
+            {
+              "id": "q_38_081_vi",
+              "text": "Câu 81: Chọn giải thích thích hợp nhất về chứng hoang tưởng thường thấy ở người bị sa sút trí tuệ (dementia).",
+              "options": [
+                "1 Không tìm thấy món đồ mình cất quên, rồi cho rằng ai đó đã lấy cắp, đó là hoang tưởng ghen tuông.",
+                "2 Mặc dù đã gặp và nói chuyện với cháu, nhưng vẫn khăng khăng rằng không được cho gặp cháu suốt thời gian qua, đó là hội chứng Capgras.",
+                "3 Nhìn thấy người quản lý chăm sóc (Care Manager) đang nói chuyện với vợ mình, rồi cho rằng đó là nhân tình của vợ, đó là ảo giác người sống cùng (Phantom boarder syndrome).",
+                "4 Khăng khăng cho rằng những người thân thiết trong gia đình đã bị thay thế bằng kẻ mạo danh giống hệt, đó là hoang tưởng bị hại.",
+                "5 Mặc dù không có bệnh lý thực thể nào nhưng vẫn tin rằng mình đang mắc bệnh, đó là hoang tưởng nghi bệnh (Hypochondriacal delusion)."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_082_vi",
+              "text": "Câu 82: Chọn giải thích thích hợp nhất về các nỗ lực/chính sách hỗ trợ người bị sa sút trí tuệ.",
+              "options": [
+                "1 Tại cuộc họp của chính người bệnh (Honnin Meeting), những người trong cuộc cùng nhau trò chuyện và truyền tải thông điệp đến xã hội.",
+                "2 Đội ngũ hỗ trợ tập trung giai đoạn đầu sa sút trí tuệ sẽ tiến hành chứng nhận cần chăm sóc.",
+                "3 Điều phối viên hỗ trợ sa sút trí tuệ khởi phát sớm sẽ thực hiện chẩn đoán bệnh sa sút trí tuệ.",
+                "4 Trung tâm y tế điều trị bệnh sa sút trí tuệ sẽ tổ chức các hội nghị chăm sóc khu vực.",
+                "5 Quán cà phê sa sút trí tuệ (Dementia cafe) sẽ đào tạo các nhà lãnh đạo hướng dẫn chăm sóc sa sút trí tuệ."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_083_vi",
+              "text": "Câu 83: Chọn triệu chứng thích hợp nhất tương ứng với các triệu chứng hành vi và tâm lý của sa sút trí tuệ (BPSD).",
+              "options": [
+                "1 Không nhớ việc 10 phút trước nhân viên cơ sở đã đến chào hỏi.",
+                "2 Đang ở bệnh viện nhưng lại nghĩ mình đang ở nhà.",
+                "3 Trong lúc đang sử dụng dịch vụ chăm sóc ban ngày (day service), đi loanh quanh tìm lối ra.",
+                "4 Dù được kê đơn thuốc nhưng không thể tự quản lý việc uống thuốc.",
+                "5 Khi được giục đi tắm, chỉ ngâm mình vào nước nóng rồi đi ra."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_084_vi",
+              "text": "Câu 84: Chọn giải thích thích hợp nhất về bệnh sa sút trí tuệ kiểu Alzheimer.",
+              "options": [
+                "1 Bắt đầu rối loạn từ trí nhớ cũ, sau đó dần dần rối loạn cả trí nhớ mới.",
+                "2 Đặc trưng là sự biến động của chức năng nhận thức.",
+                "3 Rối loạn ADL (Các hoạt động sinh hoạt hàng ngày) được ghi nhận từ giai đoạn nặng trở đi.",
+                "4 Rối loạn định hướng được ghi nhận từ giai đoạn giữa trở đi.",
+                "5 Rối loạn trí nhớ được ghi nhận ngay từ giai đoạn đầu."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_085_vi",
+              "text": "Câu 85: Chọn triệu chứng thích hợp nhất của bệnh sa sút trí tuệ thể Lewy (Lewy body dementia).",
+              "options": [
+                "1 La hét lớn do rối loạn hành vi giấc ngủ non-REM.",
+                "2 Hạ huyết áp tư thế đứng do triệu chứng thần kinh tự chủ.",
+                "3 Ảo thính do rối loạn chức năng nhận thức thính giác.",
+                "4 Mất ngôn ngữ ngữ nghĩa do teo thùy thái dương.",
+                "5 Tăng sự thèm ăn do chức năng nuốt được thúc đẩy."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_086_vi",
+              "text": "Câu 86: Khi đánh giá (assessment) cuộc sống của người bị sa sút trí tuệ, chọn mục thích hợp được bao gồm trong các yếu tố thể chất.",
+              "options": [
+                "1 Tính cách",
+                "2 Môi trường sống",
+                "3 Môi trường con người",
+                "4 IADL (Các hoạt động sinh hoạt hàng ngày có sử dụng công cụ)",
+                "5 Sự kết nối với xã hội"
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_087_vi",
+              "text": "Câu 87: Chọn phát biểu thích hợp nhất về việc lưu tâm đến môi trường đối với người bị sa sút trí tuệ.",
+              "options": [
+                "1 Để giúp dễ nhận biết bằng thị giác, cần tô màu tay vịn hành lang cho nổi bật.",
+                "2 Hiển thị biểu tượng (pictogram) để tác động đến thính giác.",
+                "3 Vặn lớn âm lượng nhạc nền (BGM) để nâng cao khả năng nghe chọn lọc âm thanh.",
+                "4 Tăng cường kích thích ánh sáng trong phòng để họ có thể sống điềm tĩnh hơn.",
+                "5 Sử dụng giấy dán tường có hoa văn chi tiết nhỏ, đồng nhất trong phòng để tạo không gian yên bình."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_088_vi",
+              "text": "Câu 88: Chọn triệu chứng thích hợp nhất của rối loạn chức năng điều hành (chấp hành) ở người bị sa sút trí tuệ.",
+              "options": [
+                "1 Quên rằng mình đã ăn cơm rồi và đòi ăn cơm tiếp.",
+                "2 Quên cách dùng dao bếp và không thể sử dụng tốt.",
+                "3 Dù bữa ăn đã được dọn ra nhưng lại để thừa thức ăn ở phía bên trái.",
+                "4 Không thể thực hiện các bước nấu ăn theo một trình tự logic.",
+                "5 Nhầm lẫn hoa văn trên đĩa là thức ăn và dùng thìa cố xúc lên."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_089_vi",
+              "text": "Câu 89: Ông A (75 tuổi, nam) bị sa sút trí tuệ và đang sử dụng dịch vụ chăm sóc ban ngày (day service). Khi nhân viên chăm sóc hỏi: 'Hôm nay là ngày mấy tháng mấy?', ông A đáp: 'Tháng 9'. Nhân viên chăm sóc nói: 'Sáng nay, trong vườn nhà ông A hoa cẩm tú cầu đã nở nhỉ', thì ông B đáp: 'Hoa cẩm tú cầu nở vào tháng 6 phải không?'. Nhân viên chăm sóc nói: 'Đúng rồi. Hôm nay là ngày 22 tháng 6', và vẽ hình hoa cẩm tú cầu cùng ngày tháng lên bảng trắng. Nhân viên chăm sóc hỏi: 'Có ai sinh vào tháng 6 không?', nhưng không có ai trả lời. Nhân viên chăm sóc truyền đạt: 'Hôm nay là ngày 22 tháng 6, còn 3 ngày nữa là đến sinh nhật ông A nhỉ'. Chọn kỹ thuật thích hợp mà nhân viên chăm sóc đã thực hiện.",
+              "options": [
+                "1 Liệu pháp tiếp xúc (Touch care)",
+                "2 Trị liệu nghệ thuật (Art therapy)",
+                "3 Định hướng thực tại (Reality orientation)",
+                "4 Hồi tưởng cuộc đời (Life review)",
+                "5 Chăm sóc sự tang thương (Grief care)"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_090_vi",
+              "text": "Câu 90: Bà A (88 tuổi, nữ) được chẩn đoán mắc bệnh sa sút trí tuệ cách đây 4 năm. Hiện con trai cả đang chăm sóc bà tại nhà. Từ 3 tháng trước, bà A bắt đầu có biểu hiện định đi đại/tiểu tiện ở những nơi không phải là nhà vệ sinh nhiều lần. Con trai cả đã nhiều lần chỉ cho bà vị trí nhà vệ sinh nhưng tình trạng vẫn không thay đổi. Anh ta đã lớn tiếng quát bà A: 'Phải nói bao nhiêu lần nữa mẹ mới hiểu hả', và sau đó tự cảm thấy suy sụp. Hơn nữa, người con trai cả luôn tự trách mình mạnh mẽ, nói rằng: 'Sa sút trí tuệ sẽ kéo dài đến bao giờ đây', 'Có phải do mình có vấn đề gì không'. Nếu coi đây là quá trình người con trai cả chấp nhận căn bệnh sa sút trí tuệ của bà A, chọn giai đoạn thích hợp nhất tương ứng với đặc điểm tâm lý của người con trai lúc này.",
+              "options": [
+                "1 Giai đoạn sốc",
+                "2 Giai đoạn phủ nhận",
+                "3 Giai đoạn hỗn loạn",
+                "4 Giai đoạn nỗ lực giải quyết",
+                "5 Giai đoạn chấp nhận"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            }
+          ]
         }
       ],
       "questions": []
