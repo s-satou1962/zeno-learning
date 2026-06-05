@@ -2952,6 +2952,485 @@
               "explanation": "Đáp án đúng: 3"
             }
           ]
+        },
+        {
+          "id": "folder_understanding_of_disabilities_vi",
+          "name": "Hiểu biết về Khuyết tật",
+          "questions": [
+            {
+              "id": "q_38_091_vi",
+              "text": "Câu 91: Chọn giải thích thích hợp nhất về khái niệm 'Bao trùm xã hội' (social inclusion) trong phúc lợi khuyết tật.",
+              "options": [
+                "1 Xã hội tích hợp người khuyết tật và người không khuyết tật.",
+                "2 Xã hội bảo vệ người khuyết tật khỏi việc bị vi phạm quyền lợi.",
+                "3 Xã hội hỗ trợ việc ra quyết định của người khuyết tật.",
+                "4 Xã hội xem xét lợi ích tốt nhất của người khuyết tật.",
+                "5 Xã hội bao trùm cả người khuyết tật và người không khuyết tật."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_092_vi",
+              "text": "Câu 92: Chọn phát biểu thích hợp nhất về khuyết tật trí tuệ.",
+              "options": [
+                "1 Khuyết tật xuất hiện trong thời kỳ phát triển.",
+                "2 Nguyên nhân gây ra khuyết tật là rõ ràng.",
+                "3 Không thể làm việc trong môi trường lao động thông thường.",
+                "4 Cấp độ của sổ tay phục hồi (Sổ tay Ryoiku) được quyết định dựa trên phân loại mức độ hỗ trợ khuyết tật.",
+                "5 Không kèm theo sự chậm phát triển về vận động."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_093_vi",
+              "text": "Câu 93: Chọn bệnh hoặc tình trạng bệnh lý thích hợp nhất có thể kèm theo di chứng liệt nửa người hoặc rối loạn ngôn ngữ.",
+              "options": [
+                "1 Rối loạn mạch máu não (cerebrovascular disorder).",
+                "2 Bệnh tiểu đường (diabetes mellitus).",
+                "3 Chấn thương tủy sống (spinal cord injury).",
+                "4 Bệnh phổi tắc nghẽn mãn tính (chronic obstructive pulmonary disease).",
+                "5 Bệnh Crohn (Crohn disease)."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_094_vi",
+              "text": "Câu 94: Nhân dịp Năm Quốc tế Người khuyết tật, chọn sự thay đổi thích hợp nhất đã xảy ra đối với phúc lợi người khuyết tật tại Nhật Bản.",
+              "options": [
+                "1 Quan điểm bảo vệ người khuyết tật như những người yếu thế được lan rộng.",
+                "2 Triết lý bình thường hóa (normalization) dần được thẩm thấu.",
+                "3 Dẫn đến việc ban hành Luật Phúc lợi Người khuyết tật cơ thể.",
+                "4 Bắt đầu cung cấp dịch vụ phúc lợi theo từng loại khuyết tật.",
+                "5 Chuyển đổi từ hệ thống áp đặt (biện pháp hành chính) sang hệ thống y tế hỗ trợ tự lập."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_095_vi",
+              "text": "Câu 95: Chọn triệu chứng thích hợp nhất thường gặp ở bệnh xơ cứng teo cơ một bên (ALS).",
+              "options": [
+                "1 Rối loạn cảm giác",
+                "2 Tiểu không tự chủ",
+                "3 Rối loạn nuốt",
+                "4 Rối loạn thị lực",
+                "5 Táo bón"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_096_vi",
+              "text": "Câu 96: Ông A (50 tuổi, nam) trước đây sống một mình, nhưng hiện tại đang phải nhập viện dài hạn do bệnh tâm thần phân liệt (schizophrenia). Triệu chứng đã thuyên giảm và ổn định nên bác sĩ giải thích rằng ông có thể sắp được xuất viện. Ông A mong muốn tiếp tục sống một mình như trước đây, nhưng lại cảm thấy bất an khi phải tự tìm nhà. Chọn sự hỗ trợ công cộng thích hợp nhất để ông A sử dụng nhằm thực hiện mong muốn của mình.",
+              "options": [
+                "1 Hỗ trợ định cư tại cộng đồng",
+                "2 Hỗ trợ sống tự lập",
+                "3 Hỗ trợ chuyển tiếp ra cộng đồng (Hỗ trợ chuyển đổi cộng đồng)",
+                "4 Chăm sóc sinh hoạt",
+                "5 Đồng hành viện trợ"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_097_vi",
+              "text": "Câu 97: Ông A (45 tuổi, nam) bị chấn thương đầu do tai nạn giao thông 1 năm trước. Tay chân ông không bị khuyết tật gì, nhưng ông được chẩn đoán mắc chứng rối loạn chức năng não cao cấp (higher brain dysfunction). Chọn cách hỗ trợ thích hợp nhất thể hiện sự thấu hiểu về đặc điểm khuyết tật của ông A.",
+              "options": [
+                "1 Dù ông có hỏi đi hỏi lại cùng một điều do rối loạn trí nhớ, nhưng chỉ trả lời câu hỏi một lần duy nhất.",
+                "2 Do rối loạn chú ý nên ông thường mắc lỗi trong công việc, mỗi lần như vậy cần nhắc nhở mạnh mẽ.",
+                "3 Do rối loạn chức năng điều hành nên ông không thể làm việc nếu không được chỉ thị, vì vậy thúc giục ông tự làm theo phán đoán cá nhân.",
+                "4 Do rối loạn hành vi xã hội nên thỉnh thoảng ông dễ nổi giận, vì vậy cần thay đổi hoàn cảnh hoặc chủ đề để giúp ông bình tĩnh lại cảm xúc.",
+                "5 Do suy giảm nhận thức về bệnh tật (thiếu tự ý thức về bệnh) nên ông không thừa nhận những việc mình không thể làm, vì vậy cần chỉ ra cho ông thấy những việc đó."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_098_vi",
+              "text": "Câu 98: Chọn dụng cụ thích hợp được quy định là dụng cụ chỉnh hình/hỗ trợ (bổ trang cụ) theo 'Luật Hỗ trợ Tổng hợp Người khuyết tật'.",
+              "options": [
+                "1 Giường đặc biệt",
+                "2 Xe lăn điện",
+                "3 Bảng chữ nổi",
+                "4 Máy hút đờm bằng điện",
+                "5 Túi hậu môn nhân tạo (Stoma)"
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_099_vi",
+              "text": "Câu 99: Chọn phát biểu thích hợp nhất về hệ thống hỗ trợ người khuyết tật tại cộng đồng.",
+              "options": [
+                "1 Chuyên viên hỗ trợ chăm sóc (Care Manager) lập kế hoạch sử dụng dịch vụ.",
+                "2 Chuyên viên tư vấn hỗ trợ lập kế hoạch hỗ trợ cá nhân.",
+                "3 Trung tâm tư vấn hỗ trợ nòng cốt quyết định mức độ hỗ trợ khuyết tật.",
+                "4 Trung tâm hỗ trợ sinh hoạt cộng đồng quyết định mức độ cần chăm sóc.",
+                "5 Cấp Thành phố (Shi-cho-son) thực hiện dự án hỗ trợ sinh hoạt cộng đồng."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_100_vi",
+              "text": "Câu 100: Chọn chức danh công việc thích hợp nhất chuyên làm dụng cụ tự trợ cho những người không thể cầm nắm thìa tốt do khuyết tật.",
+              "options": [
+                "1 Y tá",
+                "2 Kỹ thuật viên dụng cụ chỉnh hình",
+                "3 Chuyên viên vật lý trị liệu",
+                "4 Chuyên viên hoạt động trị liệu (Occupational Therapist)",
+                "5 Chuyên viên ngôn ngữ trị liệu"
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            }
+          ]
+        },
+        {
+          "id": "folder_medical_care_vi",
+          "name": "Chăm sóc Y tế",
+          "questions": [
+            {
+              "id": "q_38_101_vi",
+              "text": "Câu 101: Chọn điểm lưu ý thích hợp nhất khi đo các dấu hiệu sinh tồn (vital signs).",
+              "options": [
+                "1 Khi đo bằng nhiệt kế không tiếp xúc, cần chú ý đến nhiệt độ môi trường.",
+                "2 Khi đo mạch, dùng ngón tay cái chạm vào động mạch quay.",
+                "3 Khi đo nhịp thở, thông báo cho họ thở chậm rãi rồi mới tiến hành đo.",
+                "4 Khi đo huyết áp, quấn dải băng (cuff) chặt vào bắp tay sao cho không có khe hở.",
+                "5 Để kiểm tra mức độ ý thức, trước tiên hãy lay mạnh cơ thể để xem phản ứng."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_102_vi",
+              "text": "Câu 102: Chọn phát biểu đúng về cấu trúc của ống Canula mở khí quản.",
+              "options": [
+                "1 Ống Canula mở khí quản được đưa vào hầu họng.",
+                "2 Ống Canula mở khí quản không cần phải thay.",
+                "3 Bóng chèn (cuff) được gắn ở đầu trên của ống Canula.",
+                "4 Bên trong bóng chèn (cuff) có chứa nước cất vô trùng.",
+                "5 Có thể hút các chất ứ đọng phía trên bóng chèn thông qua ống phụ (side tube)."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_103_vi",
+              "text": "Câu 103: Ông A (85 tuổi, nam) mắc bệnh phổi tắc nghẽn mãn tính (COPD) và đang sống trong cơ sở chăm sóc phúc lợi người cao tuổi. Một ngày nọ, ông A than phiền: 'Tôi bị mắc đờm nhưng ho mà không tống ra được'. Nhân viên chăm sóc kiểm tra nhịp thở thì thấy 22 lần/phút và có tiếng khò khè. Y tá cung cấp thông tin rằng đờm rất dễ ứ đọng ở phổi phải của ông. Khi thực hiện hút đờm trong miệng, hút được đờm trong suốt và rất đặc nhớt. Chọn cách xử lý thích hợp nhất mà nhân viên chăm sóc thực hiện để thúc đẩy việc tống đờm ra ngoài cho ông A.",
+              "options": [
+                "1 Giữ độ ẩm trong phòng ở mức 30%.",
+                "2 Bảo ông hạn chế uống nước.",
+                "3 Khuyên ông nằm với tư thế nghiêng bên trái xuống dưới.",
+                "4 Đổi sang ống hút đờm to hơn.",
+                "5 Khuyên ông nằm yên nghỉ ngơi trên giường."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_104_vi",
+              "text": "Câu 104: Chọn phát biểu đúng về cấu tạo của dạ dày.",
+              "options": [
+                "1 Bắt đầu từ môn vị và kết thúc ở tâm vị.",
+                "2 Phần trên bên trái gọi là phình vị, nơi lưu trữ thức ăn tạm thời.",
+                "3 Rìa dưới bên trái gọi là bờ cong nhỏ.",
+                "4 Dạ dày có 3 đoạn hẹp sinh lý.",
+                "5 Ruột non nối tiếp sau dạ dày gọi là hỗng tràng."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_105_vi",
+              "text": "Câu 105: Chọn cách chăm sóc thích hợp nhất do nhân viên chăm sóc thực hiện đối với người sử dụng đang đặt ống thông dạ dày dạng nút (button).",
+              "options": [
+                "1 Nếu da xung quanh lỗ thông dạ dày bị tấy đỏ, hãy bôi thuốc mỡ.",
+                "2 Xoay ống thông dạ dày 2 đến 3 lần một ngày để tránh kết dính.",
+                "3 Khuyên họ tránh đi bộ để phòng ngừa ống thông bị tuột.",
+                "4 Rửa vùng da xung quanh lỗ thông dạ dày bằng xà phòng và nước ấm để giữ sạch sẽ.",
+                "5 Sát trùng vùng quanh lỗ thông dạ dày trước khi bơm dung dịch dinh dưỡng."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            }
+          ]
+        },
+        {
+          "id": "folder_care_process_vi",
+          "name": "Quá trình Chăm sóc",
+          "questions": [
+            {
+              "id": "q_38_106_vi",
+              "text": "Câu 106: Chọn cách giải quyết thích hợp nhất đối với các vấn đề sinh hoạt trong quá trình chăm sóc.",
+              "options": [
+                "1 Hiện thực hóa sự hỗ trợ mà nhân viên chăm sóc mong muốn.",
+                "2 Hiện thực hóa cuộc sống mà người sử dụng mong muốn.",
+                "3 Hiện thực hóa sự liên kết mà các chức danh chuyên môn khác mong muốn.",
+                "4 Hiện thực hóa tình trạng kinh tế mà gia đình mong muốn.",
+                "5 Hiện thực hóa cách thức vận hành mà cơ sở mong muốn."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_107_vi",
+              "text": "Câu 107: Chọn giải thích thích hợp nhất về mục tiêu ngắn hạn.",
+              "options": [
+                "1 Thiết lập mục tiêu chăm sóc của nhân viên chăm sóc.",
+                "2 Ghi chép trạng thái của người sử dụng sau 1 năm.",
+                "3 Diễn đạt với chủ thể là gia đình của người sử dụng.",
+                "4 Xem xét từ các vấn đề sinh hoạt cụ thể của người sử dụng dựa trên đánh giá (assessment).",
+                "5 Ghi chép mức độ hài lòng của nhân viên chăm sóc khi đạt được mục tiêu."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_108_vi",
+              "text": "Câu 108: Chọn phát biểu thích hợp liên quan đến việc thực hiện kế hoạch chăm sóc.",
+              "options": [
+                "1 Tình hình thực hiện của người sử dụng sẽ được ghi chép tóm tắt lại vào ngày đánh giá.",
+                "2 Nhân viên chăm sóc tiếp tục thực hiện cho đến khi hài lòng với kết quả.",
+                "3 Lấy việc tích lũy kinh nghiệm thực tiễn của nhân viên chăm sóc làm mục tiêu.",
+                "4 Làm việc theo nhóm để thực hiện kế hoạch chăm sóc do các chức danh khác lập ra.",
+                "5 Giải thích nội dung hỗ trợ cho người sử dụng và nhận sự đồng ý từ họ."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_109_vi",
+              "text": "Câu 109: Chọn mục đích thích hợp nhất để người quản lý dịch vụ tham dự hội nghị của những người phụ trách dịch vụ.",
+              "options": [
+                "1 Báo cáo về tình hình triển khai kế hoạch hỗ trợ cá nhân.",
+                "2 Đánh giá phân loại mức độ hỗ trợ khuyết tật.",
+                "3 Quyết định xem có cần cấp phát hỗ trợ hay không.",
+                "4 Giải thích kế hoạch sử dụng dịch vụ.",
+                "5 Chỉ thị cho chuyên viên tư vấn hỗ trợ việc lập kế hoạch hỗ trợ cá nhân."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_110_vi",
+              "text": "Câu 110: [Tình huống] Bà A (78 tuổi, nữ, cần chăm sóc mức 1) bị sa sút trí tuệ nhẹ và đang sống một mình, đồng thời sử dụng dịch vụ chăm sóc ban ngày (day service). Con gái một của bà sống ở gần đó. Gần đây, người hàng xóm liên lạc với con gái: 'Bà nhà hay đổ rác vào những ngày không đúng quy định nên tôi đang âm thầm dọn dẹp giúp'. Hôm sau, khi đến nhà bà A, người con gái thấy các hộp cơm bento trống rỗng vứt lăn lóc trong phòng. Lo lắng, cô khuyên mẹ dọn về sống chung, nhưng bà A đáp với giọng mạnh mẽ: 'Mẹ vẫn muốn tiếp tục đến day service từ căn nhà này'. Kết quả thảo luận là người con gái sẽ đến xem tình hình vào buổi chiều tối. Bà A vẫn tham gia day service không nghỉ ngày nào, nhưng trong một lần xe đến đón, bà từ chối và nói với nhân viên chăm sóc phụ trách: 'Hôm nay tôi không muốn đi'. Khi con gái hỏi lý do, bà kể: 'Cứ đến giờ giải đố, bà B lại nhắc nhở mẹ nhiều lần rằng câu trả lời của mẹ luôn sai. Cảm thấy thật thảm hại...'. Con gái đã truyền đạt lại tình trạng của bà A cho nhân viên chăm sóc. Chọn nhu cầu (needs) thích hợp nhất của bà A.",
+              "options": [
+                "1 Dọn đến sống chung tại nhà con gái.",
+                "2 Tiếp tục cuộc sống tại nhà riêng.",
+                "3 Được nghỉ dịch vụ chăm sóc ban ngày (day service).",
+                "4 Thay đổi thực đơn của hộp cơm bento.",
+                "5 Giao việc đổ rác cho người hàng xóm."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_111_vi",
+              "text": "Câu 111: (Dựa trên tình huống của bà A ở trên) Sau khi nhận được liên lạc từ con gái bà A, dịch vụ chăm sóc ban ngày đã quyết định đánh giá lại (re-assessment) quá trình chăm sóc. Chọn thông tin cần coi trọng nhất trong lần đánh giá lại của bà A.",
+              "options": [
+                "1 Cách sinh hoạt trong những ngày không đến sử dụng dịch vụ chăm sóc ban ngày.",
+                "2 Tình trạng và biểu hiện của bà tại cơ sở chăm sóc ban ngày.",
+                "3 Ý kiến của con gái về việc tiếp tục sử dụng dịch vụ chăm sóc ban ngày.",
+                "4 Ấn tượng của nhân viên chăm sóc phụ trách việc đón bà đến cơ sở chăm sóc ban ngày.",
+                "5 Nguyện vọng về việc sử dụng các dịch vụ khác ngoài dịch vụ chăm sóc ban ngày."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_112_vi",
+              "text": "Câu 112: [Tình huống] Ông A (50 tuổi, nam, mức độ hỗ trợ khuyết tật 3) bị khuyết tật trí tuệ mức độ trung bình. Ông không có vấn đề về chức năng thể chất nhưng bị rối loạn chức năng điều hành (chấp hành). Ông có thể biểu đạt ý muốn bằng những từ ngữ ngắn gọn. Cha mẹ ông đã qua đời. Chị gái sống gần đó nhưng khó sống chung, nên ông chuyển vào cơ sở hỗ trợ sinh hoạt chung (group home). Khi chuyển vào, mục tiêu ngắn hạn được đặt ra là 'Điều chỉnh nhịp độ sinh hoạt', và mọi việc diễn ra suôn sẻ. Ban ngày ông đi đến cơ sở hỗ trợ lao động liên tục loại B. Khi đã quen với cuộc sống tại group home, ông A bắt đầu nghỉ các hoạt động ban ngày. Lo lắng, nhân viên hỗ trợ sinh hoạt đến phòng ông A và thấy ông có vẻ mất tự tin, ông nói: 'Hôm qua, bạn phòng bên cạnh sang chơi đã cười nhạo khi thấy phòng tôi bừa bộn. Trước đây tôi vẫn dọn dẹp sạch sẽ được mà'. Khi nhân viên hỗ trợ kiểm tra, thấy các món đồ sưu tầm anime và quần áo ngày càng nhiều, nằm vương vãi khắp trong phòng ngủ trước đây vốn rất gọn gàng. Chọn thông tin cần thiết và thích hợp nhất để hiểu về tình trạng ông A nghỉ các hoạt động ban ngày.",
+              "options": [
+                "1 Cấu trúc gia đình của chị gái ông A.",
+                "2 Thời gian người bạn phòng bên cạnh sang phòng ông A.",
+                "3 Lý do ông A đánh mất sự tự tin.",
+                "4 Tâm trạng của nhân viên hỗ trợ sinh hoạt khi đến thăm phòng ông A.",
+                "5 Lý do ông A quyết định chơi với người bạn ở phòng bên cạnh."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_113_vi",
+              "text": "Câu 113: (Dựa trên tình huống của ông A ở trên) Vài ngày sau, một cuộc họp đã được tổ chức để xem xét lại mục tiêu ngắn hạn. Chọn mục tiêu ngắn hạn được xem xét lại thích hợp nhất.",
+              "options": [
+                "1 Thay đổi sở thích.",
+                "2 Duy trì tình trạng phòng riêng hiện tại.",
+                "3 Dồn quần áo vào một góc phòng.",
+                "4 Thay đổi cơ sở tham gia hoạt động ban ngày.",
+                "5 Sắp xếp, dọn dẹp lại phòng riêng."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            }
+          ]
+        },
+        {
+          "id": "folder_comprehensive_questions_vi",
+          "name": "Câu hỏi Tổng hợp",
+          "questions": [
+            {
+              "id": "q_38_114_vi",
+              "text": "Câu 114: [Tình huống] Bà A (66 tuổi, nữ) sống cùng con trai một. Nửa năm trước, bà nghỉ hưu công việc đã làm từ lâu và chuyển sang làm việc tiếp tục với lịch 2 ngày/tuần. Từ khoảng thời gian đó, bà than phiền mất ngủ và những ngày cảm thấy suy sụp tăng lên. Một thời gian sau, bà bắt đầu la hét lớn khi ngủ, hoặc nói rằng những họa tiết hoa trên rèm cửa trong phòng đang chuyển động khiến bà sợ hãi. Sau khi đi khám tại bệnh viện đại học, bà được chẩn đoán mắc bệnh sa sút trí tuệ thể Lewy (dementia with Lewy bodies) do có các biểu hiện run tay chân, bước đi nhỏ. Bà A được chứng nhận cần hỗ trợ mức độ 2 và bắt đầu sử dụng dịch vụ phục hồi chức năng ban ngày dự phòng chăm sóc. Chứng run tay chân của bà A phát sinh do ảnh hưởng của một loại chất trong cơ thể. Chọn chất tương ứng thích hợp nhất.",
+              "options": [
+                "1 Melatonin",
+                "2 Dopamine",
+                "3 Adrenaline",
+                "4 Cortisol",
+                "5 Glucagon"
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_115_vi",
+              "text": "Câu 115: (Dựa trên tình huống của bà A ở trên) Một ngày nọ lúc đưa rước, người con trai hỏi nhân viên chăm sóc B: 'Tôi nên chú ý những gì khi chăm sóc mẹ tại nhà vì các triệu chứng của bà biến động từng ngày?'. Chọn lời khuyên thích hợp nhất mà nhân viên B đưa ra cho người con trai.",
+              "options": [
+                "1 Thay đổi rèm cửa trong phòng riêng thành loại trơn không họa tiết để phòng tránh những ảnh hưởng từ môi trường thị giác.",
+                "2 Tập một bài thể dục cố định vào cùng một thời điểm mỗi ngày để duy trì sức mạnh cơ chân.",
+                "3 Giảm cơ hội ra ngoài của bà A để phòng tránh té ngã.",
+                "4 Sử dụng ánh sáng trực tiếp để chiếu sáng căn phòng càng rực rỡ càng tốt vào ban đêm.",
+                "5 Sử dụng quần áo cài khuy để giúp bà dễ mặc/cởi hơn."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_116_vi",
+              "text": "Câu 116: (Dựa trên tình huống của bà A ở trên) Sau 2 tháng sử dụng dịch vụ, bà A tâm sự: 'Nếu có thể tiếp tục sử dụng dịch vụ trong khi vẫn sống tại nhà thì tôi an tâm lắm. Tôi muốn tiếp tục sống cùng con trai'. Người con trai chia sẻ: 'Sắp tới tôi sẽ có những chuyến đi công tác qua đêm, nên mong mẹ có thể sử dụng tốt các dịch vụ khác ngoài phục hồi chức năng'. Chọn dịch vụ thích hợp nhất khuyên bà A sử dụng.",
+              "options": [
+                "1 Dịch vụ hỗ trợ sinh hoạt chung cho người sa sút trí tuệ dự phòng chăm sóc (Group home cho người cao tuổi sa sút trí tuệ).",
+                "2 Dự án hỗ trợ tự lập sinh hoạt hàng ngày.",
+                "3 Dịch vụ chăm sóc tại nhà (Home help).",
+                "4 Dịch vụ chăm sóc tại nhà đa chức năng quy mô nhỏ dự phòng chăm sóc.",
+                "5 Dịch vụ theo hình thức đi lại (ban ngày) thuộc Dự án dịch vụ hỗ trợ sinh hoạt / dự phòng chăm sóc."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_117_vi",
+              "text": "Câu 117: [Tình huống] Bà A (85 tuổi, nữ, cần chăm sóc mức 1) đang sống tại viện dưỡng lão có thu phí dạng chung cư. Bà không có họ hàng. Bà A đang kinh doanh bãi đỗ xe và có thu nhập hàng tháng từ việc này. Gần đây, trong tủ lạnh của bà thường chứa rất nhiều thực phẩm giống nhau, khi được hỏi lý do, bà đáp: 'Tôi hay quên mình có gì nên toàn mua những món giống nhau'. Ngoài ra, bà cũng chia sẻ: 'Tôi thấy bất an vì không thể tự quản lý thu nhập từ bãi đỗ xe được nữa'. Sau đó, bà A được chẩn đoán mắc bệnh sa sút trí tuệ kiểu Alzheimer giai đoạn đầu. Chọn chế độ thích hợp nhất để đề xuất cho bà A về sự bất an trong việc quản lý thu nhập từ bãi đỗ xe.",
+              "options": [
+                "1 Chế độ giám hộ người trưởng thành.",
+                "2 Chế độ bảo trợ sinh hoạt (phúc lợi xã hội).",
+                "3 Chế độ lương hưu tuổi già.",
+                "4 Chế độ làm việc tiếp tục.",
+                "5 Chế độ y tế cho người cao tuổi giai đoạn sau."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_118_vi",
+              "text": "Câu 118: (Dựa trên tình huống của bà A ở trên) Bà A đã chuyển đến một viện dưỡng lão có kèm chăm sóc trong cùng thành phố. Hai năm sau khi chuyển đi, nhân viên chăm sóc E phụ trách cho biết: 'Hiện tại, Tiêu chuẩn đánh giá mức độ tự lập trong sinh hoạt hàng ngày của người cao tuổi sa sút trí tuệ của bà A có thể được xem xét là Hạng IIIa'. Chọn tình trạng thích hợp nhất tương ứng với tiêu chuẩn Hạng IIIa.",
+              "options": [
+                "1 Tình trạng có thể tự lập trong sinh hoạt hàng ngày.",
+                "2 Tình trạng có thể tự lập nếu có người theo dõi.",
+                "3 Tình trạng có những khó khăn trong việc giao tiếp chủ yếu vào ban ngày và cần được chăm sóc.",
+                "4 Tình trạng thường xuyên gặp khó khăn trong giao tiếp và luôn cần được chăm sóc.",
+                "5 Tình trạng cần có sự can thiệp y tế chuyên khoa."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_119_vi",
+              "text": "Câu 119: (Dựa trên tình huống của bà A ở trên) Theo phương châm của cơ sở, quyết định áp dụng mô hình Chăm sóc lấy con người làm trung tâm (Person-centered care). Chọn định hướng thích hợp nhất khi nhân viên E xem xét lại kế hoạch chăm sóc.",
+              "options": [
+                "1 Lập sổ tay hướng dẫn chăm sóc tập trung vào những điểm chung của người bị sa sút trí tuệ.",
+                "2 Chữa trị bệnh sa sút trí tuệ.",
+                "3 Hỗ trợ sự cá nhân (giữ gìn bản sắc) của người bị sa sút trí tuệ.",
+                "4 Bảo vệ người bị sa sút trí tuệ với tư cách là một sự tồn tại đặc biệt.",
+                "5 Triệt tiêu các triệu chứng hành vi và tâm lý của sa sút trí tuệ (BPSD)."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_120_vi",
+              "text": "Câu 120: [Tình huống] Ông A (42 tuổi, nam) bị khuyết tật trí tuệ. Ông đang sống cùng cha. Nửa năm trước, ông được chẩn đoán mắc ung thư đại tràng và đã làm phẫu thuật tạo hậu môn nhân tạo (stoma) đại tràng sigma. Sau khi xuất viện, người cha là người chăm sóc, nhưng vì gánh nặng quá lớn nên họ đã bắt đầu sử dụng dịch vụ chăm sóc tại nhà. Chọn tính chất phân lúc bình thường của ông A thích hợp nhất.",
+              "options": [
+                "1 Từ dạng nước đến dạng cháo",
+                "2 Từ dạng lỏng đến dạng nước",
+                "3 Từ dạng bán lỏng đến dạng cháo",
+                "4 Từ dạng bùn đến phân mềm",
+                "5 Từ phân mềm đến dạng rắn"
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_121_vi",
+              "text": "Câu 121: (Dựa trên tình huống của ông A ở trên) Một ngày nọ, ông A hỏi ý kiến nhân viên chăm sóc tại nhà: 'Sắp tới tôi sẽ đi tắm suối nước nóng với bố, nhưng tôi lo ngại về mùi của phân'. Chọn thực phẩm thích hợp nhất mà nhân viên chăm sóc khuyên ông A dùng.",
+              "options": [
+                "1 Phô mai (Cheese)",
+                "2 Hành tây",
+                "3 Sữa chua (Yogurt)",
+                "4 Hẹ",
+                "5 Măng tây (Asparagus)"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_122_vi",
+              "text": "Câu 122: (Dựa trên tình huống của ông A ở trên) Người cha đã chia sẻ nỗi lo: 'Xem tin tức về động đất, tôi thấy lo lắng về cách xử lý khi có thảm họa'. Nhận thấy việc lập kế hoạch sơ tán cá nhân ở khu vực này đang bị chậm trễ, nhân viên chăm sóc tại nhà đã coi đây là một vấn đề của khu vực. Chọn nơi thích hợp nhất để tác động, xúc tiến thảo luận về vấn đề khu vực này.",
+              "options": [
+                "1 Hội đồng hiệp thương (Hội đồng thảo luận)",
+                "2 Ủy ban tối ưu hóa vận hành",
+                "3 Hội đồng thẩm định bảo hiểm chăm sóc",
+                "4 Ủy ban chính sách người khuyết tật",
+                "5 Ủy ban bảo vệ và phục hồi địa phương"
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_123_vi",
+              "text": "Câu 123: [Tình huống] Ông A (50 tuổi, nam, mức độ hỗ trợ khuyết tật 4) bị liệt nửa người bên phải, rối loạn chức năng não cao cấp và mất ngôn ngữ. Hiện ông đang sống tại cơ sở hỗ trợ người khuyết tật. Ban ngày, thân trên của ông ngay lập tức bị nghiêng sang tư thế đổ về bên phải. Một ngày nọ, khi nhân viên chăm sóc B cố gắng truyền đạt cách sửa lại tư thế, ông A đã hét lớn và ném đồ vật. Nhân viên B đã trao đổi với Trưởng nhóm chăm sóc C. Chọn phương pháp thích hợp nhất mà Trưởng nhóm C đã sử dụng để giải quyết tình huống.",
+              "options": [
+                "1 Tham vấn (Consultation)",
+                "2 Huấn luyện (Coaching)",
+                "3 Kỹ năng tuân thủ lãnh đạo (Followership)",
+                "4 Giảng dạy (Teaching)",
+                "5 Kỹ năng thành viên (Membership)"
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_124_vi",
+              "text": "Câu 124: (Dựa trên tình huống của ông A ở trên) Nhân viên B quyết định sử dụng đệm lót (cushion) để ông A có thể duy trì được tư thế chi tốt (lương chi vị) trên xe lăn. Đầu tiên, nhân viên đã đỡ thân trên của ông dậy và cho ông ngồi lại thật sâu. Chọn vị trí chèn đệm lót thích hợp nhất.",
+              "options": [
+                "1 Giữa lưng và tựa lưng (back support)",
+                "2 Giữa đùi trái và mặt ghế",
+                "3 Giữa hai cẳng chân và chỗ tựa chân (leg support)",
+                "4 Giữa đùi phải và đùi trái",
+                "5 Giữa cánh tay phải và tựa tay phải (arm support)"
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_125_vi",
+              "text": "Câu 125: (Dựa trên tình huống của ông A ở trên) Người vợ đã đến xin tư vấn: 'Tôi muốn trao đổi thông tin và học hỏi thêm về khuyết tật của chồng. Nếu có nơi nào như vậy, xin hãy giới thiệu cho tôi'. Chọn nguồn lực xã hội thích hợp nhất để giới thiệu cho người vợ.",
+              "options": [
+                "1 Văn phòng phúc lợi",
+                "2 Văn phòng ổn định nghề nghiệp công cộng (Hello Work)",
+                "3 Hội gia đình",
+                "4 Trung tâm hỗ trợ bao quát khu vực",
+                "5 Trung tâm nghề nghiệp người khuyết tật khu vực"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            }
+          ]
         }
       ],
       "questions": []
