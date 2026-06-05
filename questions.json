@@ -40,7 +40,8 @@
               "correctAnswerIndex": 3,
               "explanation": "正答：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_basics_of_care",
@@ -828,7 +829,8 @@
               "correctAnswerIndex": 3,
               "explanation": "正答：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_mechanism_of_mind_and_body",
@@ -990,7 +992,8 @@
               "correctAnswerIndex": 3,
               "explanation": "正答：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_understanding_of_development_and_aging",
@@ -1100,7 +1103,8 @@
               "correctAnswerIndex": 3,
               "explanation": "正答：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_understanding_of_dementia",
@@ -1236,7 +1240,8 @@
               "correctAnswerIndex": 2,
               "explanation": "正答：3"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_understanding_of_disabilities",
@@ -1372,7 +1377,8 @@
               "correctAnswerIndex": 3,
               "explanation": "正答：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_medical_care",
@@ -1443,7 +1449,8 @@
               "correctAnswerIndex": 3,
               "explanation": "正答：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_care_process",
@@ -1553,7 +1560,8 @@
               "correctAnswerIndex": 4,
               "explanation": "正答：5"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_comprehensive_questions",
@@ -1715,7 +1723,8 @@
               "correctAnswerIndex": 2,
               "explanation": "正答：3"
             }
-          ]
+          ],
+          "children": []
         }
       ],
       "questions": []
@@ -2542,7 +2551,8 @@
               "correctAnswerIndex": 3,
               "explanation": "[正答]{せいとう}：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_mechanism_of_mind_and_body_furi",
@@ -2704,7 +2714,8 @@
               "correctAnswerIndex": 3,
               "explanation": "[正答]{せいとう}：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_understanding_of_development_and_aging_furi",
@@ -2814,7 +2825,8 @@
               "correctAnswerIndex": 3,
               "explanation": "[正答]{せいとう}：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_understanding_of_dementia_furi",
@@ -2950,7 +2962,8 @@
               "correctAnswerIndex": 2,
               "explanation": "[正答]{せいとう}：3"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_understanding_of_disabilities_furi",
@@ -3086,7 +3099,8 @@
               "correctAnswerIndex": 3,
               "explanation": "[正答]{せいとう}：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_medical_care_furi",
@@ -3157,7 +3171,8 @@
               "correctAnswerIndex": 3,
               "explanation": "[正答]{せいとう}：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_care_process_furi",
@@ -3267,7 +3282,8 @@
               "correctAnswerIndex": 4,
               "explanation": "[正答]{せいとう}：5"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_comprehensive_questions_furi",
@@ -3429,7 +3445,8 @@
               "correctAnswerIndex": 2,
               "explanation": "[正答]{せいとう}：3"
             }
-          ]
+          ],
+          "children": []
         }
       ],
       "questions": []
