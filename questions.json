@@ -2055,6 +2055,495 @@
               "explanation": "Đáp án đúng: 4"
             }
           ]
+        },
+        {
+          "id": "folder_human_relationships_and_communication_vi",
+          "name": "Quan hệ con người và Giao tiếp",
+          "children": [],
+          "questions": [
+            {
+              "id": "q_38_025_vi",
+              "text": "Câu 25: Nhân viên mới A (20 tuổi) đã trở thành nhân viên chăm sóc, công việc mơ ước từ nhỏ và đang làm việc rất chăm chỉ. Tuy nhiên, cô luôn cảm thấy cần phải học hỏi thêm về kỹ năng chăm sóc. Một ngày nọ, cô bị sốc khi người sử dụng B nói: 'Không cần cô A đâu, gọi người khác ra đây'. Do trăn trở, cô bắt đầu cảm thấy không muốn tiếp xúc với người sử dụng và trở nên mất ngủ. Chọn cách đối phó thích hợp nhất mà cô A nên làm đầu tiên để loại bỏ căng thẳng trong tình huống này.",
+              "options": [
+                "1 Không trốn tránh sự đau khổ, tự nhận thức rằng mình học hỏi chưa đủ.",
+                "2 Dốc toàn lực nỗ lực để giỏi hơn trong kỹ năng chăm sóc.",
+                "3 Uống rượu mỗi tối để có thể ngủ được.",
+                "4 Trò chuyện về nỗi trăn trở với cấp trên, đồng nghiệp để nhận được lời khuyên.",
+                "5 Phán đoán rằng mình không phù hợp với nghề chăm sóc và chuyển việc."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_026_vi",
+              "text": "Câu 26: Ông A vừa chuyển vào viện dưỡng lão có thu phí. Một ngày nọ, nhân viên chăm sóc B cất tiếng gọi khi thấy ông A đang đi qua đi lại ngoài hành lang. Ông A đáp với vẻ lúng túng: 'Phòng tôi ở đâu nhỉ?'. Nhân viên B trả lời: 'Cách đây 2 phòng ạ', nhưng ông A lại hỏi với vẻ mặt bất an: 'Ở đâu thế?'. Nhân viên B quyết định sử dụng giao tiếp phi ngôn ngữ để truyền đạt. Chọn giao tiếp phi ngôn ngữ thích hợp nhất mà nhân viên B đã sử dụng.",
+              "options": [
+                "1 Nói chậm rãi.",
+                "2 Nói to.",
+                "3 Viết số phòng của ông A ra giấy rồi đưa cho ông.",
+                "4 Tiến lại gần ông A.",
+                "5 Chỉ tay vào cửa phòng của ông A."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_027_vi",
+              "text": "Câu 27: Chọn ý nghĩa thích hợp nhất của từ tuân thủ (compliance) trong các cơ sở phúc lợi chăm sóc.",
+              "options": [
+                "1 Tuân thủ luật pháp và quy định.",
+                "2 Tăng lương.",
+                "3 Thúc đẩy sự liên kết.",
+                "4 Nỗ lực nâng cao kỹ năng chăm sóc.",
+                "5 Tăng cường hệ thống quản lý."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_028_vi",
+              "text": "Câu 28: Nhân viên chăm sóc A mới vào làm được 3 tháng, trong lần trực đêm đầu tiên, đã mắc lỗi điền nhầm bảng kiểm tra bài tiết. Vì điền vào lúc bận rộn hỗ trợ người sử dụng thức dậy nên đã ghi sai chỗ. Nhân viên A không thể chấp nhận được lỗi của mình và đang rất suy sụp. Chọn cách giám sát hỗ trợ thích hợp nhất dành cho nhân viên A.",
+              "options": [
+                "1 Cùng đồng nghiệp kiểm tra lại bảng kiểm tra bài tiết.",
+                "2 Giám đốc cơ sở chỉ thị các biện pháp phòng ngừa tái diễn.",
+                "3 Cấp trên nỗ lực thấu hiểu cảm xúc của nhân viên A, đồng thời xác nhận tình hình.",
+                "4 Điều dưỡng viên xác nhận tình hình sau đó của người sử dụng.",
+                "5 Cấp trên xem xét lại sổ tay nghiệp vụ và thực hiện các chỉnh sửa cần thiết."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            }
+          ]
+        },
+        {
+          "id": "folder_communication_technology_vi",
+          "name": "Kỹ năng giao tiếp",
+          "children": [],
+          "questions": [
+            {
+              "id": "q_38_029_vi",
+              "text": "Câu 29: Chọn mục đích thích hợp nhất của việc bộc lộ bản thân mà nhân viên chăm sóc thực hiện trong tình huống giao tiếp với người sử dụng.",
+              "options": [
+                "1 Để tận dụng tiềm thức của bản thân.",
+                "2 Để đánh giá mối quan hệ tin cậy với người sử dụng.",
+                "3 Để cho người sử dụng biết thông tin về bản thân mình.",
+                "4 Để hình thành mối quan hệ tin cậy với người sử dụng.",
+                "5 Để phân tích bản thân một cách sâu sắc và hiểu mình một cách khách quan."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_030_vi",
+              "text": "Câu 30: Nhân viên chăm sóc A đang trò chuyện với bà B (80 tuổi, nữ) bị chứng sa sút trí tuệ. Bà B liên tục nói hết chuyện này đến chuyện khác: 'Khi còn nhỏ, tôi rất mong đợi đi lễ hội mỗi năm', 'Gần đây tôi cảm thấy đầu gối hơi đau', 'Bây giờ tôi nên làm gì nhỉ'. Để bà B không bị bối rối, nhân viên A đã đáp lại: 'Bà B đang kể cho cháu nghe về những kỷ niệm thời thơ ấu và tình trạng sức khỏe của bà nhỉ'. Chọn kỹ năng giao tiếp thích hợp nhất mà nhân viên A đã thực hiện.",
+              "options": [
+                "1 Tóm tắt",
+                "2 Công nhận",
+                "3 Khen ngợi",
+                "4 Đồng cảm",
+                "5 Đồng ý"
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_031_vi",
+              "text": "Câu 31: Chọn tư thế cơ bản thích hợp nhất của nhân viên chăm sóc trong việc xây dựng mối quan hệ với gia đình người sử dụng.",
+              "options": [
+                "1 Đứng yên chờ cho đến khi sự căng thẳng của cả hai bên tan biến.",
+                "2 Dẫn dắt câu chuyện theo nhịp độ của nhân viên chăm sóc.",
+                "3 Ưu tiên ý muốn của gia đình hơn là ý muốn của người sử dụng.",
+                "4 Hạn chế tối đa việc liên lạc với gia đình.",
+                "5 Tiếp xúc với tư cách là những đối tác hợp tác trong việc hỗ trợ người sử dụng."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_032_vi",
+              "text": "Câu 32: Bà A (80 tuổi, nữ, cần chăm sóc mức 3) bị mù hoàn toàn do di chứng bệnh. Bà đang sống tại cơ sở chăm sóc phúc lợi người cao tuổi. Gần đây nhà ăn có sự đổi chỗ ngồi. Bà A nghĩ rằng những người ngồi cùng bàn đang nói chuyện với mình nên đã đáp lời. Tuy nhiên không ai phản ứng lại khiến bà cúi gầm mặt xuống. Thấy vậy, để xử lý tình huống cho bà A, nhân viên chăm sóc B đã nói chuyện với những người cùng bàn về hoàn cảnh của bà A và yêu cầu sự hợp tác. Chọn nội dung hợp tác thích hợp nhất mà nhân viên B đã nhờ những người cùng bàn.",
+              "options": [
+                "1 Nhờ mọi người bảo bà A đang mệt nên hãy về phòng nghỉ ngơi.",
+                "2 Nhờ mọi người nắm khẽ tay bà A vì bà đang bất an.",
+                "3 Nhờ mọi người gọi tên người muốn nói chuyện trước khi bắt đầu nói để bà A hiểu.",
+                "4 Nhờ mọi người hạn chế nói chuyện trong nhà ăn vì bà A sẽ bị bối rối.",
+                "5 Nhờ mọi người bảo với bà A là chuẩn bị ăn cơm vì bà không nắm được lịch trình của cơ sở."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_033_vi",
+              "text": "Câu 33: Ông A (72 tuổi, nam) bị rối loạn trí nhớ và đang sống trong cơ sở chăm sóc. Một ngày nọ, ông A bắt chuyện với nhân viên chăm sóc: 'À này, tôi có chút việc muốn nhờ. Ừm, thực ra tôi để thừa gần hết bữa trưa... Thế là... à, chắc là đầu bếp thất vọng lắm nhỉ, hồi trước tôi làm ở nhà ăn suốt mà. Quán cũng khá đông khách nhưng rồi phải đóng cửa. À, ừm, tôi đang nói chuyện gì ấy nhỉ...'. Chọn câu phản hồi thích hợp nhất của nhân viên chăm sóc để thúc đẩy ông A nói tiếp.",
+              "options": [
+                "1 'Ông A đã không muốn đóng cửa quán nhỉ.'",
+                "2 'Ông A giỏi nấu món gì nhất thế ạ?'",
+                "3 'Ông không cần bận tâm về người đầu bếp đâu ạ.'",
+                "4 'Có phải ông thấy không khỏe ở đâu trong người không?'",
+                "5 'Hình như ông có việc gì đó muốn nhờ phải không ạ?'"
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_034_vi",
+              "text": "Câu 34: Chọn phát biểu thích hợp nhất tương ứng với một sự thật khách quan.",
+              "options": [
+                "1 Chắc hẳn người sử dụng A đã rất vui.",
+                "2 Người sử dụng A đã để thừa bánh mì bữa sáng.",
+                "3 Người sử dụng A trông có vẻ như muốn nói điều gì đó.",
+                "4 Tôi nghĩ người sử dụng A đã cảm thấy bất an.",
+                "5 Người sử dụng A tỏ ra nhàm chán."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            }
+          ]
+        },
+        {
+          "id": "folder_life_support_technology_vi",
+          "name": "Kỹ năng hỗ trợ sinh hoạt",
+          "children": [],
+          "questions": [
+            {
+              "id": "q_38_035_vi",
+              "text": "Câu 35: Chọn phương pháp hỗ trợ sinh hoạt phù hợp nhất do nhân viên chăm sóc thực hiện đối với người sử dụng.",
+              "options": [
+                "1 Tập trung vào việc làm thay những việc người sử dụng không thể làm.",
+                "2 Hỗ trợ bằng cách nắm bắt toàn diện về người sử dụng.",
+                "3 Để người sử dụng tự làm tất cả mọi thứ một mình.",
+                "4 Đặt mục tiêu nâng cao hiệu quả cuộc sống của người sử dụng.",
+                "5 Đồng hành với cảm giác thương hại người sử dụng."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_036_vi",
+              "text": "Câu 36: Chọn phát biểu thích hợp nhất về môi trường trong phòng thoải mái tại cơ sở chăm sóc phúc lợi người cao tuổi.",
+              "options": [
+                "1 Tạo luồng thông gió để thông hơi không khí.",
+                "2 Sử dụng tay vịn cùng màu với giấy dán tường.",
+                "3 Điều chỉnh nguồn sáng của đèn giường chiếu trực tiếp vào mắt người sử dụng.",
+                "4 Giữ độ ẩm cao để phòng ngừa nấm mốc.",
+                "5 Dùng vật liệu lát sàn cứng để giảm tiếng ồn bước chân."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_037_vi",
+              "text": "Câu 37: Chọn phát biểu thích hợp nhất về không gian sống của người mắc bệnh Parkinson.",
+              "options": [
+                "1 Lắp đặt dốc thoải ở bậc thềm lối vào.",
+                "2 Đánh dấu trên sàn hành lang phù hợp với bước đi.",
+                "3 Trải chồng các tấm thảm có kích thước khác nhau trên sàn phòng khách.",
+                "4 Bố trí đồ đạc sao cho không gian di chuyển bị thu hẹp lại.",
+                "5 Đặt phòng khách ở tầng 1, phòng tắm ở tầng 2 và sử dụng cầu thang để đi lại."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_038_vi",
+              "text": "Câu 38: Chọn phương pháp chăm sóc thích hợp nhất cho người sử dụng có biểu hiện đi lại không vững và giảm động lực di chuyển.",
+              "options": [
+                "1 Tránh sử dụng dụng cụ phúc lợi và khuyến khích nỗ lực tự bước đi.",
+                "2 Ưu tiên cải thiện chức năng đi bộ hơn là truyền đạt mục đích di chuyển.",
+                "3 Thiết lập khoảng cách mục tiêu đi bộ có thể đạt được để tích lũy trải nghiệm thành công.",
+                "4 Thu hẹp phạm vi di chuyển cho phù hợp với sự mất ổn định khi đi bộ.",
+                "5 Đặt mục tiêu đi bộ mỗi ngày theo phán đoán của nhân viên chăm sóc dù bản thân người đó không muốn."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_039_vi",
+              "text": "Câu 39: Chọn phương pháp chăm sóc thích hợp nhất khi hỗ trợ chuyển tiếp từ tư thế nằm ngửa sang xe lăn cho người sử dụng bị liệt nửa người bên phải.",
+              "options": [
+                "1 Khuyến khích người sử dụng nằm nghiêng sang phải rồi ngồi dậy.",
+                "2 Đứng ở bên trái của người sử dụng khi họ đã ngồi ở mép giường.",
+                "3 Đặt xe lăn ở bên phải của người sử dụng khi họ đã ngồi ở mép giường.",
+                "4 Hạ giá để chân (foot support) của xe lăn xuống trước.",
+                "5 Khi chuyển tiếp, khuyến khích người sử dụng giữ tư thế gập người về phía trước."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_040_vi",
+              "text": "Câu 40: Chọn cách thức thích hợp nhất khi dẫn đường cho người khiếm thị lúc đi bộ.",
+              "options": [
+                "1 Nhân viên chăm sóc đi lùi nửa bước phía sau và đỡ lưng người sử dụng.",
+                "2 Nhân viên chăm sóc vừa đi vừa chạm vào gậy trắng.",
+                "3 Ở lối đi hẹp, nhân viên chăm sóc đi phía sau người sử dụng.",
+                "4 Khi sử dụng cầu thang, nhân viên chăm sóc dừng lại trước cầu thang và lên tiếng báo.",
+                "5 Nhân viên chăm sóc vừa đi vừa vung cánh tay mà người sử dụng đang nắm."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_041_vi",
+              "text": "Câu 41: Về mục đích của việc chuẩn bị ngoại hình (ăn mặc, chải chuốt), chọn nội dung thích hợp nhất tương ứng với góc độ 'Chức năng tâm thần, cơ thể và cấu trúc cơ thể' trong Phân loại Chức năng Hoạt động Quốc tế (ICF).",
+              "options": [
+                "1 Điều hòa thân nhiệt.",
+                "2 Giữ cơ thể sạch sẽ.",
+                "3 Thực hiện tự chăm sóc (self-care).",
+                "4 Thể hiện bản thân.",
+                "5 Điều chỉnh mối quan hệ với những người xung quanh."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_042_vi",
+              "text": "Câu 42: Chọn phương pháp chăm sóc răng miệng thích hợp nhất cho người sử dụng cần được chăm sóc.",
+              "options": [
+                "1 Thực hiện ở tư thế nằm ngửa.",
+                "2 Yêu cầu súc miệng để loại bỏ mảng bám răng.",
+                "3 Chải từng 1, 2 cái răng bằng bàn chải.",
+                "4 Sử dụng bàn chải mút xốp (sponge brush) ở trạng thái khô.",
+                "5 Thực hiện trong khi vẫn đeo răng giả bán phần (răng giả cục bộ)."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_043_vi",
+              "text": "Câu 43: Chọn lời giải thích thích hợp nhất do nhân viên chăm sóc nói khi người sử dụng bị liệt nửa người bên phải mặc/cởi áo cài khuy phía trước.",
+              "options": [
+                "1 'Khi cởi, hãy hạ áo ở vai trái xuống trước, sau đó rút tay ra khỏi tay áo bên phải.'",
+                "2 'Khi cởi, hãy hạ áo ở vai phải xuống trước, sau đó rút tay ra khỏi tay áo bên phải.'",
+                "3 'Hãy để phần cổ áo hướng về phía mình và đặt lên đùi.'",
+                "4 'Khi mặc, hãy xỏ tay áo bên phải đến khuỷu tay trước, sau đó xỏ tay áo bên trái.'",
+                "5 'Khi mặc, hãy xỏ tay áo bên phải lên đến vai trước, sau đó xỏ tay áo bên trái.'"
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_044_vi",
+              "text": "Câu 44: Chọn phương pháp hỗ trợ thích hợp nhất liên quan đến bữa ăn tại cơ sở chăm sóc phúc lợi người cao tuổi.",
+              "options": [
+                "1 Không cần thông gió nhà ăn.",
+                "2 Hạn chế nói chuyện trong bữa ăn.",
+                "3 Tạo bầu không khí để bữa ăn trở nên vui vẻ.",
+                "4 Dọn bát đĩa ngay lập tức sau khi người sử dụng ăn xong.",
+                "5 Điều chỉnh độ sáng của đèn dưới mức 25 lux."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_045_vi",
+              "text": "Câu 45: Khi ngồi ghế ăn cơm, chọn cách chăm sóc thích hợp nhất để đảm bảo tư thế giúp người sử dụng dễ ăn.",
+              "options": [
+                "1 Yêu cầu họ đặt lòng bàn chân chạm sàn.",
+                "2 Yêu cầu họ để khoảng cách giữa cơ thể và bàn là 30 cm.",
+                "3 Yêu cầu họ ngồi mớm (nông) trên ghế.",
+                "4 Yêu cầu họ ngả thân mình về phía sau.",
+                "5 Yêu cầu họ ngẩng cằm lên."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_046_vi",
+              "text": "Câu 46: Chọn phương pháp chăm sóc ăn uống thích hợp nhất cho người sử dụng bị suy giảm chức năng nhai.",
+              "options": [
+                "1 Để họ húp ăn bằng một chiếc thìa lớn.",
+                "2 Lượng ăn mỗi miếng tương đương khoảng một muỗng cà phê vơi.",
+                "3 Thứ tự ăn do nhân viên chăm sóc quyết định.",
+                "4 Đưa thìa vào sao cho thức ăn đặt ở sâu cuống lưỡi.",
+                "5 Ngay khi họ bắt đầu nhai, tiếp tục đưa ngay thức ăn tiếp theo vào miệng."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_047_vi",
+              "text": "Câu 47: Bà A (80 tuổi, nữ, cần chăm sóc mức 3) đang sống tại cơ sở chăm sóc phúc lợi người cao tuổi. Bà có thể tự ăn dưới sự giám sát, nhưng chức năng nuốt đang suy giảm. Bác sĩ đã hướng dẫn cần lưu ý trong việc ăn uống. Một ngày vào bữa trưa, khi ăn được khoảng 1/3, bà A dừng đũa, nét mặt căng cứng và nhịp thở trở nên hơi nông. Chọn hành động thích hợp nhất mà nhân viên chăm sóc cần làm ngay đầu tiên, đồng thời với việc báo cáo cho nhân viên y tế.",
+              "options": [
+                "1 Đo huyết áp.",
+                "2 Quan sát tình trạng trong khoang miệng.",
+                "3 Khuyến khích thở chúm môi.",
+                "4 Cho bà nằm ngửa ngay tại chỗ.",
+                "5 Cho bà uống thuốc ngay lập tức."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_048_vi",
+              "text": "Câu 48: Chọn phương pháp thích hợp nhất về việc vệ sinh vùng kín trên giường.",
+              "options": [
+                "1 Sử dụng găng tay vô trùng.",
+                "2 Di chuyển nửa thân trên ra mép trước của giường.",
+                "3 Quấn hai chân dưới bằng khăn tắm.",
+                "4 Sử dụng nước nóng 43°C khi rửa.",
+                "5 Sau khi xong, lau sạch nước bằng khăn hấp."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_049_vi",
+              "text": "Câu 49: Hình ảnh minh họa phương pháp lau vùng bụng. Mũi tên biểu thị hướng lau. Chọn phương pháp lau cơ bản thích hợp nhất.",
+              "options": [
+                "1 Hình 1",
+                "2 Hình 2",
+                "3 Hình 3",
+                "4 Hình 4",
+                "5 Hình 5"
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_050_vi",
+              "text": "Câu 50: Ông A (55 tuổi, nam, nhân viên công ty) bị tổn thương tủy cổ thứ 5 (C5) do tai nạn giao thông năm 20 tuổi. Hiện tại, ông sử dụng xe lăn điện và sống tự lập tại nhà. Tình trạng cơ thể ổn định nhưng thỉnh thoảng bị loét tì đè ở vùng xương cùng. Về việc tắm rửa, ông sử dụng dịch vụ chăm sóc tại nhà (home help), và nhân viên chăm sóc hỗ trợ tắm bằng dụng cụ phúc lợi. Chọn dụng cụ phúc lợi thích hợp nhất mà ông A đang sử dụng khi tắm.",
+              "options": [
+                "1 Ván di chuyển (移乗台)",
+                "2 Ván tắm (バスボード)",
+                "3 Máy nâng dùng cho bồn tắm (入浴用リフト)",
+                "4 Tay vịn bồn tắm",
+                "5 Thảm chống trượt"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_051_vi",
+              "text": "Câu 51: Ông A (85 tuổi, nam, cần chăm sóc mức 3) được chẩn đoán mắc bệnh sa sút trí tuệ kiểu Alzheimer và đang sống tại cơ sở hỗ trợ sinh hoạt chung cho người sa sút trí tuệ (group home). Khi mới vào, ông A có cảm giác buồn tiểu/đại tiện và tự đi vệ sinh trong nhà vệ sinh được. Gần đây, do suy giảm chức năng nhận thức, ông bắt đầu bài tiết ở những nơi khác ngoài nhà vệ sinh. Chọn cách xử lý thích hợp nhất của nhân viên chăm sóc phù hợp với tình trạng của ông A.",
+              "options": [
+                "1 Luyện tập cơ sàn chậu.",
+                "2 Sử dụng bỉm giấy.",
+                "3 Giảm lượng nước uống trong ngày.",
+                "4 Dẫn ông vào nhà vệ sinh cùng thời điểm với những người sử dụng khác.",
+                "5 Dán một tờ giấy ghi chữ 'Nhà vệ sinh' ở lối ra vào nhà vệ sinh."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_052_vi",
+              "text": "Câu 52: Chọn đồ uống thích hợp nhất để bù nước cho người sử dụng đang bị tiêu chảy.",
+              "options": [
+                "1 Nước đun sôi để nguội (Bạch thang)",
+                "2 Sữa bò",
+                "3 Nước có ga",
+                "4 Cà phê",
+                "5 Nước lạnh"
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_053_vi",
+              "text": "Câu 53: Ông A (83 tuổi, nam, cần chăm sóc mức 1) sống một mình bằng khoản lương hưu ít ỏi. Ông được chẩn đoán mắc chứng sa sút trí tuệ nhẹ. Gần nhà có vài người quen thân thiết. Một ngày nọ, khi nhân viên chăm sóc tại nhà đến thăm, thấy thực phẩm chức năng chưa bóc hộp mua ở siêu thị gần nhà chất thành núi. Ông A mang ví ra và hỏi nhân viên chăm sóc: 'Tôi có nhiều thứ muốn mua nhưng không đủ tiền. Tôi nên làm thế nào?'. Chọn cách xử lý thích hợp nhất của nhân viên chăm sóc trong tình huống này.",
+              "options": [
+                "1 Truyền đạt rằng 'Tiền vẫn đủ nên bác cứ yên tâm nhé'.",
+                "2 Hỏi người quen thân thiết gần đó xem có thể giữ ví giúp không.",
+                "3 Cất ví vào ngăn kéo có khóa, và nhân viên chăm sóc giữ chìa khóa.",
+                "4 Đề xuất 'Chúng ta cùng suy nghĩ về cách tiêu tiền nhé'.",
+                "5 Khuyên dùng quyền hủy bỏ hợp đồng mua bán (cooling-off) đối với thực phẩm chức năng."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_054_vi",
+              "text": "Câu 54: Chọn một phát biểu đúng về tính chất của sợi vải/quần áo và phương pháp giặt.",
+              "options": [
+                "1 Sử dụng thuốc tẩy chứa oxy cho áo sơ mi cotton (bông) có họa tiết.",
+                "2 Tăng thời gian vắt khô đối với áo mưa nylon.",
+                "3 Sử dụng máy sấy cho áo len dệt kim (wool).",
+                "4 Tăng thời gian xả nước đối với đồ ngủ vải rayon.",
+                "5 Sử dụng bột giặt có tính kiềm nhẹ đối với áo sơ mi lụa."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_055_vi",
+              "text": "Câu 55: Bà A (82 tuổi, nữ, cần chăm sóc mức 1) sử dụng dịch vụ chăm sóc tại nhà mỗi tuần 1 lần để được hỗ trợ sinh hoạt và đang sống một mình. Bà muốn tự làm những việc trong khả năng của mình, ví dụ như tự nấu ăn. Một ngày nọ, nhân viên chăm sóc nhận danh sách mua sắm từ bà A và đi mua thực phẩm ở siêu thị gần nhà. Chọn cách xử lý thích hợp nhất của nhân viên chăm sóc khi hỗ trợ sinh hoạt cho bà A.",
+              "options": [
+                "1 Vì thực phẩm được nhờ mua đang rẻ nên đã mua số lượng nhiều hơn trong danh sách.",
+                "2 Giao toàn quyền việc kiểm tra tiền thừa, hóa đơn và thực phẩm đã mua cho bà A.",
+                "3 Khi mở tủ lạnh, thấy có thực phẩm hết hạn nên đã tự ý vứt đi.",
+                "4 Đề xuất từ lần sau nhân viên chăm sóc sẽ viết danh sách mua sắm.",
+                "5 Xác nhận với bà A xem trong số thực phẩm vừa mua có nguyên liệu nào khó nấu không."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_056_vi",
+              "text": "Câu 56: Chọn phương pháp thích hợp nhất về việc tạo môi trường để có giấc ngủ ngon.",
+              "options": [
+                "1 Kết hợp nhiều bài tập vận động cường độ cao vào ban ngày.",
+                "2 Ăn đêm ngay trước khi đi ngủ.",
+                "3 Tắm khoảng 1 đến 2 giờ trước khi đi ngủ.",
+                "4 Dù không buồn ngủ cũng nhắm mắt vào một giờ cố định.",
+                "5 Bật đèn sáng ngay cả trong khi ngủ."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_057_vi",
+              "text": "Câu 57: Bà A (83 tuổi, nữ, cần chăm sóc mức 3) bị liệt nửa người bên trái do di chứng nhồi máu não và đang sống tại cơ sở chăm sóc phúc lợi người cao tuổi. Một đêm nọ, bà A đang nằm ngửa và than phiền với nhân viên chăm sóc: 'Tôi cảm thấy lưng nặng nề quá, không ngủ được'. Chọn cách chăm sóc thích hợp nhất mà nhân viên chăm sóc thực hiện cho bà A.",
+              "options": [
+                "1 Đặt ở tư thế Fowler và kê gối đệm dưới chân trái.",
+                "2 Kê gối đệm dưới cả hai cánh tay.",
+                "3 Kê gối đệm dưới khoeo chân (phía sau đầu gối) cả hai bên.",
+                "4 Chuyển sang tư thế nằm nghiêng bên phải và cho bà ôm gối đệm.",
+                "5 Kê gối đệm ở bàn chân bên phải."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_058_vi",
+              "text": "Câu 58: Chọn hỗ trợ thích hợp nhất do nhân viên chăm sóc thực hiện đối với người sử dụng trong giai đoạn cuối đời và gia đình của họ tại cơ sở chăm sóc phúc lợi người cao tuổi.",
+              "options": [
+                "1 Hạn chế cho gia đình vào thăm để họ không phải nhìn thấy dáng vẻ đau đớn của người sử dụng.",
+                "2 Không liên lạc với gia đình nếu mối quan hệ giữa người sử dụng và gia đình không tốt.",
+                "3 Nếu có đồ vật yêu thích hoặc món muốn ăn, nhờ gia đình mang đến.",
+                "4 Khi người sử dụng kêu đau đớn, nhờ gia đình động viên khích lệ.",
+                "5 Không thông báo những thay đổi về thể trạng vì sẽ làm gia đình bất an."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_059_vi",
+              "text": "Câu 59: Chọn cách ứng xử thích hợp nhất của nhân viên chăm sóc đối với gia đình của người sử dụng đã qua đời tại cơ sở.",
+              "options": [
+                "1 Bắt đầu can thiệp hỗ trợ từ thời điểm gia đình biểu lộ sự đau buồn.",
+                "2 Trọng tâm vào việc động viên khích lệ hơn là lắng nghe.",
+                "3 Chú ý đề phòng vì sự đau buồn (bi thán) là một phản ứng bất thường.",
+                "4 Tránh đề cập đến những kỷ niệm với người đã khuất.",
+                "5 Khuyên gia đình nên thảo luận với bác sĩ chuyên khoa nếu sự đau buồn kéo dài."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_060_vi",
+              "text": "Câu 60: Chọn đối tượng người sử dụng thích hợp nhất để dùng khung tập đi cố định.",
+              "options": [
+                "1 Người bị liệt nửa thân dưới và không thể bước luân phiên hai chân.",
+                "2 Người bị liệt nửa người và có sự co rút ở khớp ngón tay bên bị liệt.",
+                "3 Người có lực cơ ở cả hai tay yếu và bị đau ở khớp cổ tay.",
+                "4 Người duy trì được lực nắm ở cả hai tay và có thể giữ tư thế đứng trong khoảng vài giây.",
+                "5 Người bị gãy xương khối tụ cốt cổ chân phải và không thể dồn trọng lượng lên chân phải."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            }
+          ]
         }
       ],
       "questions": []
