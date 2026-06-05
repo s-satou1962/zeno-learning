@@ -1721,6 +1721,182 @@
       "questions": []
     },
     {
+      "id": "folder_certified_care_worker_38_vi",
+      "name": "第38回介護福祉士国家試験（ベトナム語翻訳）",
+      "children": [
+        {
+          "id": "folder_human_dignity_and_independence_vi",
+          "name": "人間の尊厳と自立",
+          "questions": [
+            {
+              "id": "q_38_001_vi",
+              "text": "Câu 1: Chọn một phát biểu thích hợp nhất về các nhân vật đã phát triển triết lý phúc lợi xã hội.",
+              "options": [
+                "1 Bank-Mikkelsen, N. đã đề xướng 'Định giá vai trò xã hội (Social Role Valorization)'.",
+                "2 Nirje, B. đã đề xướng '8 nguyên tắc bình thường hóa (normalization)'.",
+                "3 Wolfensberger, W. đã đề xướng 'Cải cách Edel'.",
+                "4 Richmond, M. đã đề xướng '7 nguyên tắc của công tác xã hội cá nhân (casework)'.",
+                "5 Erikson, E. đã đề xướng 'Triết lý của phong trào sống độc lập'."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_002_vi",
+              "text": "Câu 2: Ông A (62 tuổi, nam, mức độ cần chăm sóc 2) được chẩn đoán mắc bệnh xơ cứng teo cơ một bên (ALS) cách đây 2 năm. Ông mong muốn được sống tại nhà cùng vợ và đang sử dụng dịch vụ chăm sóc tại nhà (home help) và điều dưỡng tại nhà. Gần đây, triệu chứng tiến triển, trong cuộc họp với người phụ trách dịch vụ, ông A nói: 'Tôi không muốn dùng máy thở, tôi muốn sống tại nhà cho đến giây phút cuối cùng'. Sau cuộc họp, người vợ chia sẻ với nhân viên chăm sóc: 'Tôi rất khó nói với chồng, nhưng vì muốn ở bên anh ấy càng lâu càng tốt, tôi mong anh ấy sử dụng máy thở'. Chọn đề xuất thích hợp nhất của nhân viên chăm sóc đối với vợ ông A.",
+              "options": [
+                "1 'Ý muốn của ông A đã nói trong cuộc họp là rất quan trọng, chúng ta nên tôn trọng nó phải không?'",
+                "2 'Tôi cũng không rõ, hay là để bác sĩ quyết định nhé?'",
+                "3 'Ông A nên sử dụng máy thở thì tốt hơn nhỉ.'",
+                "4 'Bà có muốn tạo thời gian để hai vợ chồng cùng trò chuyện về cảm xúc của nhau không?'",
+                "5 'Bà có muốn chuyển đạt cho chuyên viên hỗ trợ chăm sóc (care manager) rằng bà cần thông tin về bệnh viện và cơ sở chăm sóc không?'"
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            }
+          ]
+        },
+        {
+          "id": "folder_basics_of_care_vi",
+          "name": "介護の基本",
+          "children": [],
+          "questions": [
+            {
+              "id": "q_38_003_vi",
+              "text": "Câu 3: Chọn một phát biểu thích hợp nhất về robot chăm sóc tại các cơ sở chăm sóc.",
+              "options": [
+                "1 Cơ sở áp dụng robot sẽ được bãi bỏ tiêu chuẩn bố trí nhân sự.",
+                "2 Phương pháp sử dụng do cá nhân nhân viên tự quyết định.",
+                "3 Việc áp dụng robot được kỳ vọng sẽ hỗ trợ sự tự lập của người sử dụng và nâng cao chất lượng cuộc sống.",
+                "4 Mục đích áp dụng là để giảm thiểu tối đa sự tương tác giữa nhân viên và người sử dụng.",
+                "5 Nhờ áp dụng robot, việc đi tuần của nhân viên sẽ không cần thiết nữa."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_004_vi",
+              "text": "Câu 4: Chọn một phát biểu thích hợp nhất về việc hỗ trợ sinh hoạt cho những người cần quan tâm đặc biệt tại nơi lánh nạn được chỉ định.",
+              "options": [
+                "1 Việc cung cấp thông tin trong nơi lánh nạn nên kết hợp cả âm thanh và biểu tượng (pictogram).",
+                "2 Trong nơi lánh nạn, yêu cầu họ mang nguyên giày dép để đề phòng phải sơ tán lần hai.",
+                "3 Bữa ăn được cung cấp giống nhau dựa trên quan điểm bình đẳng và công bằng đối với người bị nạn.",
+                "4 Nhà vệ sinh nên là loại bồn cầu ngồi xổm để phòng ngừa lây nhiễm.",
+                "5 Phạm vi sinh hoạt bị giới hạn trong các khu vực không gian đã được phân chia."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_005_vi",
+              "text": "Câu 5: Chọn một phát biểu thích hợp nhất về 7 nguyên tắc của thiết kế toàn cầu (universal design).",
+              "options": [
+                "1 Thiết kế an toàn và dễ sử dụng.",
+                "2 Hướng tới đối tượng là người cao tuổi cần chăm sóc.",
+                "3 Ưu tiên sự tiêu chuẩn hóa hơn là đáp ứng nhu cầu cá nhân.",
+                "4 Ưu tiên việc dễ thao tác đối với nhân viên chăm sóc.",
+                "5 Ưu tiên vẻ đẹp của thiết kế."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_006_vi",
+              "text": "Câu 6: Ông A (51 tuổi, nam, mức độ hỗ trợ khuyết tật 5) bị khuyết tật trí tuệ. Ông đang sống tại cơ sở hỗ trợ sinh hoạt chung (group home). Ban ngày, ông sử dụng dịch vụ chăm sóc sinh hoạt để làm các công việc nhẹ. Ông A rất cố chấp với khăn tắm, chỉ sử dụng loại khăn ông tự chọn tại một cửa hàng quen thuộc. Trước đây, ông thường đi mua khăn cùng bố mẹ, nhưng giờ bố mẹ đã cao tuổi nên không thể đi cùng. Bố mẹ ông A đã thảo luận với người chịu trách nhiệm quản lý dịch vụ: 'Cháu nó rất cố chấp, nên chúng tôi muốn để cháu tự chọn khăn ở cửa hàng quen thuộc. Có dịch vụ nào tốt không?'. Chọn lời khuyên thích hợp nhất của người quản lý dịch vụ.",
+              "options": [
+                "1 Khuyên dùng dịch vụ hỗ trợ đi cùng (Đồng hành viện trợ) vì việc di chuyển đến cửa hàng có nhiều lo ngại.",
+                "2 Khuyên dùng dịch vụ huấn luyện tự lập (huấn luyện chức năng) để duy trì và nâng cao chức năng cơ thể.",
+                "3 Khuyên dùng dịch vụ hỗ trợ hoạt động tự phát để có thể tự đi ra ngoài một mình.",
+                "4 Khuyên dùng dịch vụ hỗ trợ sống tự lập để có thể sống sinh hoạt hàng ngày tự lập.",
+                "5 Khuyên dùng dịch vụ hỗ trợ hành động (Hành động viện trợ) để bản thân ông có thể tự đi mua sắm."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_007_vi",
+              "text": "Câu 7: Chọn một nội dung thích hợp về dịch vụ hỗ trợ người cần hỗ trợ (Yōshien) sống một mình trong hệ thống bảo hiểm chăm sóc (Kaigo Hoken).",
+              "options": [
+                "1 Sử dụng dịch vụ chăm sóc tại nhà ban đêm để có thể an tâm trải qua buổi đêm.",
+                "2 Sử dụng dịch vụ cải tạo nhà ở dự phòng chăm sóc để di chuyển an toàn trong nhà.",
+                "3 Sử dụng dịch vụ chăm sóc tại nhà đa chức năng quy mô nhỏ để đi hát karaoke theo sở thích.",
+                "4 Sử dụng dịch vụ hỗ trợ trọn đời cho người cao tuổi để bảo lãnh nhân thân và xử lý tài sản sau khi mất.",
+                "5 Sử dụng dịch vụ hỗ trợ tự lập sinh hoạt hàng ngày để quản lý tiền bạc."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_008_vi",
+              "text": "Câu 8: Bà A (91 tuổi, nữ, mức độ cần hỗ trợ 2) đã cống hiến cho y tế khu vực trong nhiều năm với tư cách là bác sĩ phòng khám. Bà chưa từng kết hôn và đang sống cùng 3 con mèo tại nhà riêng nằm trong khuôn viên phòng khám. Dù đã nghỉ hưu năm 85 tuổi, nhiều người dân khu vực vẫn quý mến bà và thường xuyên ghé thăm nhà hỏi thăm 'Bác sĩ có khỏe không?'. Từ năm ngoái, bà A phàn nàn về việc đi lại khó khăn, hiện tại ngoài sự quan tâm của người dân, bà đang sử dụng dịch vụ chăm sóc tại nhà 2 lần/tuần. Dù có vẻ chưa quen với việc được người khác chăm sóc, bà vẫn mong muốn được sống tại nhà cho đến cuối đời. Chọn câu nói thích hợp nhất của nhân viên chăm sóc tôn trọng lịch sử cuộc đời của bà A.",
+              "options": [
+                "1 '3 con mèo thì từ giờ hãy gửi cho mọi người trong khu vực chăm sóc nhé.'",
+                "2 'Chúng ta hãy cùng suy nghĩ để bà có thể tiếp tục sống ở khu vực này với sự giúp đỡ của hàng xóm nhé.'",
+                "3 'Từ nay bà hãy quen dần với việc được nhận sự chăm sóc đi ạ.'",
+                "4 'Hãy quên việc mình từng là bác sĩ đi và cứ dựa vào chúng cháu.'",
+                "5 'Sống một mình và đón nhận những ngày tháng cuối đời tại nhà hẳn là có nhiều bất an nhỉ.'"
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_009_vi",
+              "text": "Câu 9: Chọn phát biểu thích hợp nhất về vai trò của các chức danh mà nhân viên chăm sóc liên kết trong hội nghị chuẩn bị cho việc trở về nhà tại cơ sở chăm sóc y tế người cao tuổi (Roken).",
+              "options": [
+                "1 Chuyên viên vệ sinh nha khoa làm răng giả.",
+                "2 Điều dưỡng viên cho thuê xe lăn.",
+                "3 Chuyên viên hỗ trợ chăm sóc (Care Manager) lập kế hoạch chăm sóc tại nhà.",
+                "4 Chuyên viên tư vấn dụng cụ phúc lợi huấn luyện chức năng chi dưới.",
+                "5 Chuyên viên hoạt động trị liệu (Occupational Therapist) kiểm tra bậc thềm ở lối vào nhà."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_010_vi",
+              "text": "Câu 10: Chọn phát biểu thích hợp nhất về quản lý rủi ro tại cơ sở chăm sóc phúc lợi người cao tuổi.",
+              "options": [
+                "1 Bố trí người phụ trách các biện pháp an toàn và tổ chức họp ủy ban định kỳ để phòng ngừa sự cố.",
+                "2 Những phàn nàn từ gia đình sẽ được nhân viên chăm sóc giải quyết ngay tại chỗ.",
+                "3 Khi làm hỏng đồ dùng cá nhân của người sử dụng, nhân viên chăm sóc tự phán đoán và bồi thường.",
+                "4 Báo cáo về các sự cố suýt xảy ra (incident) khi hỗ trợ tắm rửa được thống nhất bằng hình thức truyền miệng giữa các nhân viên.",
+                "5 Hạn chế tham gia lễ hội ở khu vực để phòng ngừa sự cố."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_011_vi",
+              "text": "Câu 11: Chọn biện pháp thích hợp nhất để phòng chống lây nhiễm vi khuẩn Legionella tại nơi làm việc chăm sóc.",
+              "options": [
+                "1 Quần áo của người nhiễm bệnh được khử trùng bằng cách luộc trong nước sôi.",
+                "2 Thực phẩm cung cấp phải được nấu chín kỹ.",
+                "3 Bồn tắm tuần hoàn được khử trùng bằng hóa chất chứa clo.",
+                "4 Tay nắm cửa được khử trùng bằng dung dịch Natri Hypochlorite.",
+                "5 Luôn tích sẵn nước trong bình chứa của máy tạo ẩm dùng trong gia đình."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_012_vi",
+              "text": "Câu 12: Chọn phát biểu thích hợp nhất về chế độ kiểm tra căng thẳng (stress check) mà nhân viên chăm sóc tham gia.",
+              "options": [
+                "1 Bắt buộc thực hiện 1 lần mỗi 3 năm.",
+                "2 Cơ sở có thường xuyên 100 người lao động thì được miễn tham gia.",
+                "3 Kết quả được cung cấp cho trưởng nhóm chăm sóc phụ trách quản lý lao động và sử dụng cho việc hướng dẫn phỏng vấn.",
+                "4 Nhằm mục đích nắm bắt mức độ gánh nặng tâm lý.",
+                "5 Nếu bị đánh giá là có mức độ căng thẳng cao, bắt buộc phải được bác sĩ doanh nghiệp điều trị."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            }
+          ]
+        }
+      ],
+      "questions": []
+    },
+    {
       "id": "folder_1780537090476",
       "name": "日本語学習",
       "children": [],
