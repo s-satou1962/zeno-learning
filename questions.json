@@ -1726,7 +1726,7 @@
       "children": [
         {
           "id": "folder_human_dignity_and_independence_vi",
-          "name": "人間の尊厳と自立",
+          "name": "Nhân phẩm và Tự lập",
           "questions": [
             {
               "id": "q_38_001_vi",
@@ -1749,7 +1749,7 @@
                 "2 'Tôi cũng không rõ, hay là để bác sĩ quyết định nhé?'",
                 "3 'Ông A nên sử dụng máy thở thì tốt hơn nhỉ.'",
                 "4 'Bà có muốn tạo thời gian để hai vợ chồng cùng trò chuyện về cảm xúc của nhau không?'",
-                "5 'Bà có muốn chuyển đạt cho chuyên viên hỗ trợ chăm sóc (care manager) rằng bà cần thông tin về bệnh viện và cơ sở chăm sóc không?'"
+                "5 'Bà có muốn truyền đạt cho chuyên viên hỗ trợ chăm sóc (care manager) rằng bà cần thông tin về bệnh viện và cơ sở chăm sóc không?'"
               ],
               "correctAnswerIndex": 3,
               "explanation": "Đáp án đúng: 4"
@@ -1758,7 +1758,7 @@
         },
         {
           "id": "folder_basics_of_care_vi",
-          "name": "介護の基本",
+          "name": "Cơ bản về chăm sóc",
           "children": [],
           "questions": [
             {
@@ -1887,6 +1887,169 @@
                 "3 Kết quả được cung cấp cho trưởng nhóm chăm sóc phụ trách quản lý lao động và sử dụng cho việc hướng dẫn phỏng vấn.",
                 "4 Nhằm mục đích nắm bắt mức độ gánh nặng tâm lý.",
                 "5 Nếu bị đánh giá là có mức độ căng thẳng cao, bắt buộc phải được bác sĩ doanh nghiệp điều trị."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            }
+          ]
+        },
+        {
+          "id": "folder_understanding_society_vi",
+          "name": "Hiểu biết về xã hội",
+          "children": [],
+          "questions": [
+            {
+              "id": "q_38_013_vi",
+              "text": "Câu 13: Chọn một phát biểu đúng về người thân (họ hàng) theo Luật Dân sự.",
+              "options": [
+                "1 Quy định huyết thống trong 3 đời là gia đình.",
+                "2 Quy định thân tộc do kết hôn trong 6 đời là người thân.",
+                "3 Quy định anh em họ có nghĩa vụ cấp dưỡng lẫn nhau.",
+                "4 Quy định những người thân sống cùng nhau phải giúp đỡ lẫn nhau.",
+                "5 Giữa con nuôi và cha mẹ nuôi không phát sinh quan hệ họ hàng."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_014_vi",
+              "text": "Câu 14: Chọn một phát biểu thích hợp về kết quả khảo sát liên quan đến người cao tuổi trong 'Khảo sát cơ bản về đời sống quốc dân năm 2022' (Bộ Y tế, Lao động và Phúc lợi).",
+              "options": [
+                "1 Trong cơ cấu hộ gia đình có người từ 65 tuổi trở lên, hộ gia đình chỉ có cha mẹ và con chưa kết hôn là nhiều nhất.",
+                "2 Hộ gia đình người cao tuổi chiếm trên 50%.",
+                "3 Về sự kết hợp độ tuổi của người chăm sóc chính sống cùng với người cần chăm sóc, nhóm người từ 65 tuổi trở lên chăm sóc cho nhau chiếm khoảng 60%.",
+                "4 Lý do đứng hàng thứ nhất dẫn đến việc cần chăm sóc là gãy xương/té ngã.",
+                "5 Số tiền thu nhập bình quân của 1 hộ gia đình người cao tuổi vượt quá 6 triệu Yên."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_015_vi",
+              "text": "Câu 15: Bà A (78 tuổi, nữ) sống một mình. Dù tốn thời gian nhưng bà cố gắng tự làm việc nhà và mua sắm hết mức có thể. Vì không có họ hàng thân thích đáng tin cậy ở gần, bà sử dụng dịch vụ công cộng có thể báo gọi ngay khi khẩn cấp. Bà A định kỳ thảo luận với nhân viên quầy tiếp dân của thành phố và trung tâm hỗ trợ bao quát khu vực về việc hỗ trợ sinh hoạt trong tương lai. Gần nhà bà có nhóm bạn hàng ngày cùng đi dạo, nếu có người không đến đi dạo, mọi người sẽ đến thăm và hỏi han nhau. Chọn điều thích hợp nhất tương ứng với sự 'tự trợ' (tự giúp mình - Jijo) hỗ trợ cuộc sống của bà A.",
+              "options": [
+                "1 Việc bà A tự làm các việc cá nhân dù có tốn thời gian.",
+                "2 Việc bà sử dụng dịch vụ công cộng có thể báo gọi khẩn cấp ngay lập tức.",
+                "3 Việc nhân viên thành phố tiếp nhận tư vấn.",
+                "4 Việc nhân viên trung tâm hỗ trợ bao quát khu vực tiếp nhận tư vấn.",
+                "5 Việc nhóm bạn đi dạo cùng hỏi han nhau."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_016_vi",
+              "text": "Câu 16: Chọn một phát biểu thích hợp về việc sử dụng dịch vụ chăm sóc trong hệ thống bảo hiểm chăm sóc (Kaigo Hoken).",
+              "options": [
+                "1 Người dưới 65 tuổi không thuộc đối tượng được bảo hiểm chi trả.",
+                "2 Việc chi trả bảo hiểm có giới hạn số tiền trợ cấp.",
+                "3 Thời hạn hiệu lực của chứng nhận cần chăm sóc về nguyên tắc là 3 tháng.",
+                "4 Việc cho mượn dụng cụ phúc lợi được bảo hiểm chi trả dành cho người cần chăm sóc mức độ 3 trở lên.",
+                "5 Cần phải nhận chứng nhận cần chăm sóc trước khi đến tư vấn tại trung tâm hỗ trợ bao quát khu vực."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_017_vi",
+              "text": "Câu 17: Chọn một phát biểu thích hợp nhất về sự phát triển lịch sử của phúc lợi cho người khuyết tật.",
+              "options": [
+                "1 Chịu ảnh hưởng từ Công ước Liên Hợp Quốc về Quyền của Người khuyết tật, Luật Cơ bản về Người khuyết tật đã quy định việc 'loại bỏ các rào cản xã hội'.",
+                "2 Luật Bảo vệ Ưu sinh đã bị bãi bỏ trong vòng 5 năm sau Thế chiến II.",
+                "3 Thông qua việc ban hành 'Luật Phúc lợi cho người thiểu năng trí tuệ', việc chuyển những người khuyết tật trí tuệ từ cơ sở nội trú ra cộng đồng đã được thúc đẩy.",
+                "4 Do cải cách cơ cấu cơ bản của phúc lợi xã hội, hệ thống phúc lợi cho người khuyết tật đã trở thành hệ thống hợp đồng sử dụng trước cả người cao tuổi.",
+                "5 Trong số khuyết tật cơ thể, khuyết tật trí tuệ và khuyết tật tâm thần, luật liên quan đến phúc lợi được ban hành sớm nhất là dành cho khuyết tật trí tuệ."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_018_vi",
+              "text": "Câu 18: Chọn một phát biểu thích hợp nhất về các cơ quan và hệ thống liên quan đến phúc lợi người khuyết tật.",
+              "options": [
+                "1 Trung tâm hỗ trợ hoạt động khu vực thực hiện đánh giá, thẩm định các thiết bị phục hồi chức năng.",
+                "2 Trung tâm tư vấn hỗ trợ nòng cốt bắt buộc phải bố trí nhân viên chăm sóc phúc lợi.",
+                "3 Tỉnh/Thành phố (Đô-Đạo-Phủ-Huyện) phải thành lập phòng tư vấn phục hồi chức năng cho người khuyết tật cơ thể.",
+                "4 Tỉnh/Thành phố (Đô-Đạo-Phủ-Huyện) thực hiện việc chứng nhận phân loại mức độ hỗ trợ khuyết tật.",
+                "5 Mức phí người sử dụng phải chịu được quyết định bởi kế hoạch phúc lợi người khuyết tật của cấp quận/huyện/thành phố nhỏ."
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "Đáp án đúng: 3"
+            },
+            {
+              "id": "q_38_019_vi",
+              "text": "Câu 19: Chọn một phát biểu thích hợp về phòng chống ngược đãi người khuyết tật.",
+              "options": [
+                "1 Khi phát hiện người khuyết tật bị nghi ngờ đang bị người chăm sóc ngược đãi, có nghĩa vụ phải báo cáo cho cấp Tỉnh/Thành phố.",
+                "2 Thái độ từ chối giao tiếp một cách cực đoan được xếp vào loại ngược đãi thân thể.",
+                "3 Không bao gồm việc người sử dụng lao động ngược đãi người khuyết tật.",
+                "4 Nhân viên hành chính không được phép vào kiểm tra các cơ sở phúc lợi người khuyết tật.",
+                "5 Khi nhân viên làm việc tại cơ sở phúc lợi người khuyết tật phát hiện ra hành vi ngược đãi và báo cáo, điều đó không vi phạm nghĩa vụ bảo mật thông tin trong công việc."
+              ],
+              "correctAnswerIndex": 4,
+              "explanation": "Đáp án đúng: 5"
+            },
+            {
+              "id": "q_38_020_vi",
+              "text": "Câu 20: Bà A (82 tuổi, nữ, cần chăm sóc mức 1) đang sống một mình tại nhà. Lo lắng cho bà A vì bà ít có cơ hội ra ngoài, Ủy viên dân sinh thường xuyên đến thăm hỏi, quan sát. Một ngày nọ, Ủy viên dân sinh đã đến tư vấn với trung tâm hỗ trợ bao quát khu vực rằng: 'Ngày càng có nhiều người cần chăm sóc có xu hướng nhốt mình trong nhà như bà A. Chỉ với lực lượng Ủy viên dân sinh thì không thể theo dõi đầy đủ được'. Chọn cách giải quyết thích hợp nhất của nhân viên trung tâm hỗ trợ bao quát khu vực.",
+              "options": [
+                "1 Vì nguyên tắc là chính người cao tuổi phải tự đến tư vấn, nên khuyến khích bà A tự đến.",
+                "2 Lập kế hoạch chăm sóc cho bà A để sử dụng dịch vụ chăm sóc.",
+                "3 Ưu tiên tận dụng các nguồn lực xã hội chính thức và hạn chế sự tham gia của Ủy viên dân sinh.",
+                "4 Thảo luận về các vấn đề của khu vực với những người liên quan tại hội nghị chăm sóc khu vực.",
+                "5 Thành lập hội đồng thẩm định bảo hiểm chăm sóc để nắm bắt thực trạng của những người cần chăm sóc."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_021_vi",
+              "text": "Câu 21: Chọn một phát biểu đúng về chế độ giám hộ theo pháp luật.",
+              "options": [
+                "1 Người dưới 65 tuổi không được sử dụng.",
+                "2 Không thể chỉ định người giám hộ cho người có đủ năng lực phán đoán.",
+                "3 Trưởng quận/huyện/thành phố không thể yêu cầu tòa án mở thủ tục giám hộ.",
+                "4 Không thể chọn một pháp nhân làm người giám hộ.",
+                "5 Người giám hộ không được phép quản lý tài sản."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Đáp án đúng: 2"
+            },
+            {
+              "id": "q_38_022_vi",
+              "text": "Câu 22: Chọn một phát biểu thích hợp về Viện dưỡng lão có thu phí.",
+              "options": [
+                "1 Cung cấp 1 hoặc nhiều hơn các dịch vụ: chăm sóc, cung cấp bữa ăn, việc nhà, quản lý sức khỏe cho người cao tuổi chuyển đến sống.",
+                "2 Bắt buộc cung cấp dịch vụ nắm bắt tình hình và dịch vụ tư vấn sinh hoạt.",
+                "3 Người cao tuổi có khả năng sống tự lập không thuộc đối tượng được chuyển vào sống.",
+                "4 Có thể được công nhận là dịch vụ mô hình cộng sinh.",
+                "5 Nằm ngoài đối tượng chỉ định của hệ thống bảo hiểm chăm sóc."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "Đáp án đúng: 1"
+            },
+            {
+              "id": "q_38_023_vi",
+              "text": "Câu 23: Chọn một phát biểu thích hợp về Luật Hỗ trợ Tự lập cho Người túng quẫn trong sinh hoạt.",
+              "options": [
+                "1 Người khuyết tật bị loại khỏi đối tượng của luật.",
+                "2 Dự án tư vấn hỗ trợ tự lập cho người túng quẫn không thể ủy thác cho pháp nhân phúc lợi xã hội.",
+                "3 Dự án tư vấn hỗ trợ tự lập cho người túng quẫn là một dự án tự nguyện đối với cấp Thành phố.",
+                "4 Việc cấp tiền hỗ trợ đảm bảo chỗ ở cho người túng quẫn là một dự án bắt buộc đối với cấp Thành phố.",
+                "5 Trách nhiệm của cấp Tỉnh/Thành phố không được quy định."
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "Đáp án đúng: 4"
+            },
+            {
+              "id": "q_38_024_vi",
+              "text": "Câu 24: Chọn một phát biểu thích hợp về nguyên lý tính bổ sung trong hệ thống bảo trợ xã hội.",
+              "options": [
+                "1 Thực hiện bảo trợ dựa trên đơn yêu cầu.",
+                "2 Thực hiện bảo trợ dựa trên nhu cầu được đo lường theo tiêu chuẩn do Nhà nước quy định.",
+                "3 Thực hiện bảo trợ càng sớm càng tốt tùy theo nhu cầu của cá nhân.",
+                "4 Thực hiện bảo trợ trên cơ sở đã tận dụng hết tài sản và năng lực.",
+                "5 Thực hiện bảo trợ lấy đơn vị là hộ gia đình."
               ],
               "correctAnswerIndex": 3,
               "explanation": "Đáp án đúng: 4"
