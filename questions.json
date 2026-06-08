@@ -4,20 +4,7 @@
       "id": "uncategorized",
       "name": "未分類",
       "children": [],
-      "questions": [
-        {
-          "id": "q_1780880832489",
-          "text": "秀一の愛犬の名前は",
-          "options": [
-            "もも",
-            "ゆき",
-            "はな",
-            "しば"
-          ],
-          "correctAnswerIndex": 2,
-          "explanation": "うちは代々、ハナちゃんと決まっているんです。"
-        }
-      ]
+      "questions": []
     },
     {
       "id": "folder_certified_care_worker_38",
@@ -3567,6 +3554,18 @@
           ],
           "correctAnswerIndex": 1,
           "explanation": ""
+        },
+        {
+          "id": "q_1780880832489",
+          "text": "秀一の愛犬の名前は",
+          "options": [
+            "もも",
+            "ゆき",
+            "はな",
+            "しば"
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "うちは代々、ハナちゃんと決まっているんです。"
         }
       ]
     }
