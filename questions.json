@@ -6,18 +6,6 @@
       "children": [],
       "questions": [
         {
-          "id": "q_1780546100454",
-          "text": "１＋１",
-          "options": [
-            "２",
-            "２０",
-            "２００",
-            "２０００"
-          ],
-          "correctAnswerIndex": 0,
-          "explanation": ""
-        },
-        {
           "id": "q_1780546100455",
           "text": "2＋2",
           "options": [
