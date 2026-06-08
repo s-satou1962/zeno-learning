@@ -4,7 +4,20 @@
       "id": "uncategorized",
       "name": "未分類",
       "children": [],
-      "questions": []
+      "questions": [
+        {
+          "id": "q_1780880832489",
+          "text": "秀一の愛犬の名前は",
+          "options": [
+            "もも",
+            "ゆき",
+            "はな",
+            "しば"
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "うちは代々、ハナちゃんと決まっているんです。"
+        }
+      ]
     },
     {
       "id": "folder_certified_care_worker_38",
@@ -1763,7 +1776,8 @@
               "correctAnswerIndex": 3,
               "explanation": "[正答]{せいとう}：4"
             }
-          ]
+          ],
+          "children": []
         },
         {
           "id": "folder_basics_of_care_furi",
