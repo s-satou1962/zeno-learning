@@ -3454,12 +3454,6 @@
       "questions": []
     },
     {
-      "id": "uncategorized",
-      "name": "未分類",
-      "children": [],
-      "questions": []
-    },
-    {
       "id": "folder_1780539087169",
       "name": "法人事務局用",
       "children": [],
@@ -3513,6 +3507,12 @@
           "explanation": "うちは代々、ハナちゃんと決まっているんです。"
         }
       ]
+    },
+    {
+      "id": "uncategorized",
+      "name": "未分類",
+      "children": [],
+      "questions": []
     }
   ]
 }
