@@ -4,7 +4,32 @@
       "id": "uncategorized",
       "name": "未分類",
       "children": [],
-      "questions": []
+      "questions": [
+        {
+          "id": "q_1780546100454",
+          "text": "１＋１",
+          "options": [
+            "２",
+            "２０",
+            "２００",
+            "２０００"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": ""
+        },
+        {
+          "id": "q_1780546100455",
+          "text": "2＋2",
+          "options": [
+            "4",
+            "4０",
+            "4００",
+            "4０００"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": ""
+        }
+      ]
     },
     {
       "id": "folder_certified_care_worker_38",
@@ -3534,37 +3559,6 @@
             "ごめんなさい"
           ],
           "correctAnswerIndex": 2,
-          "explanation": ""
-        }
-      ]
-    },
-    {
-      "id": "folder_1780537104067",
-      "name": "社会福祉法人会計",
-      "children": [],
-      "questions": [
-        {
-          "id": "q_1780546100454",
-          "text": "１＋１",
-          "options": [
-            "２",
-            "２０",
-            "２００",
-            "２０００"
-          ],
-          "correctAnswerIndex": 0,
-          "explanation": ""
-        },
-        {
-          "id": "q_1780546100455",
-          "text": "2＋2",
-          "options": [
-            "4",
-            "4０",
-            "4００",
-            "4０００"
-          ],
-          "correctAnswerIndex": 0,
           "explanation": ""
         }
       ]
