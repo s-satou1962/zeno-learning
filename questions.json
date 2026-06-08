@@ -4,20 +4,7 @@
       "id": "uncategorized",
       "name": "未分類",
       "children": [],
-      "questions": [
-        {
-          "id": "q_1780546100455",
-          "text": "2＋2",
-          "options": [
-            "4",
-            "4０",
-            "4００",
-            "4０００"
-          ],
-          "correctAnswerIndex": 0,
-          "explanation": ""
-        }
-      ]
+      "questions": []
     },
     {
       "id": "folder_1780893414437",
