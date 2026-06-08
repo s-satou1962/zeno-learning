@@ -1,12 +1,6 @@
 {
   "folders": [
     {
-      "id": "uncategorized",
-      "name": "未分類",
-      "children": [],
-      "questions": []
-    },
-    {
       "id": "folder_1780893414437",
       "name": "介護福祉士国家試験　過去問",
       "children": [
@@ -3457,6 +3451,12 @@
           "questions": []
         }
       ],
+      "questions": []
+    },
+    {
+      "id": "uncategorized",
+      "name": "未分類",
+      "children": [],
       "questions": []
     },
     {
