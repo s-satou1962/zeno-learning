@@ -3520,10 +3520,11 @@
             "1",
             "2",
             "3",
-            "4"
+            "4",
+            "5"
           ],
           "correctAnswerIndex": 0,
-          "explanation": ""
+          "explanation": "絵が載せられるようになりました"
         }
       ]
     }
