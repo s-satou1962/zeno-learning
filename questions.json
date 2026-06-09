@@ -3512,20 +3512,7 @@
       "id": "uncategorized",
       "name": "未分類",
       "children": [],
-      "questions": [
-        {
-          "id": "q_1780981794329",
-          "text": "\n\n\n![画像](https://raw.githubusercontent.com/s-satou1962/zeno-learning/main/public/images/img_1780981973283_7zd3jy.webp)",
-          "options": [
-            "あああ",
-            "あ",
-            "ああ",
-            "ああ"
-          ],
-          "correctAnswerIndex": 0,
-          "explanation": "ああ"
-        }
-      ]
+      "questions": []
     }
   ]
 }
