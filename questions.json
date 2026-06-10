@@ -3525,6 +3525,18 @@
           ],
           "correctAnswerIndex": 0,
           "explanation": "絵が載せられるようになりました"
+        },
+        {
+          "id": "q_1781071976423",
+          "text": "[画像](https://raw.githubusercontent.com/s-satou1962/zeno-learning/main/public/images/img_1781071982457_e3m915.webp)\\n",
+          "options": [
+            "a",
+            "a",
+            "a",
+            "a"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": ""
         }
       ]
     }
