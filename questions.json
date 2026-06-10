@@ -3509,6 +3509,12 @@
       ]
     },
     {
+      "id": "folder_1781072557101",
+      "name": "日本語能力試験",
+      "children": [],
+      "questions": []
+    },
+    {
       "id": "uncategorized",
       "name": "未分類",
       "children": [],
@@ -3527,12 +3533,6 @@
           "explanation": "絵が載せられるようになりました"
         }
       ]
-    },
-    {
-      "id": "folder_1781072557101",
-      "name": "日本語能力試験",
-      "children": [],
-      "questions": []
     }
   ]
 }
