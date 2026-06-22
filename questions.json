@@ -3987,6 +3987,18 @@
           ],
           "correctAnswerIndex": 0,
           "explanation": "絵が載せられるようになりましたよ"
+        },
+        {
+          "id": "q_1782107978846",
+          "text": "ああああ",
+          "options": [
+            "１",
+            "２",
+            "３",
+            "４"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "ああああ"
         }
       ]
     }
